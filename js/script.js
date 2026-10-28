@@ -46,3 +46,13 @@ const validateInput = function (input) {
         return input;
     }
 };
+
+const makeGuess = function (guess) {
+    guess = guess.toUpperCase();
+    if (guessedLettersElement.includes (guess)) {
+        message.innerText = "You already guessed that letter, silly, Try again.";
+    } else {
+        guessedLettersElement.push(guess);
+        console.log(guessedLetters);
+    }
+};
