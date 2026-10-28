@@ -9,6 +9,7 @@ const playAgainButton = document.querySelector(".play-again");
 
 const word = "magnolia";
 
+//Display symbols here as placeholders for chosen word's letters
 const placeholder = function (word) {
     const placeholderLetters = [];
     for (const letter of word) {
@@ -22,6 +23,8 @@ placeholder (word);
 
 guessLetterButton.addEventListener("click", function (e) {
     e.preventDefault();
+    // Empty message section
+    message.innerText = "";
     const guess = letterInput.value;
     console.log(guess);
     letterInput.value = "";
