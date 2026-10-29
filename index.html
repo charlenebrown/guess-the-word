@@ -14,13 +14,95 @@
   </head>
 
   <body>
+    <div class="binary-rain" aria-hidden="true">
+  <div class="binary-column">
+    <span>01001101011010010100110101101001</span>
+    <span>01001101011010010100110101101001</span>
+  </div>
+
+  <div class="binary-column">
+    <span>10110010100101101011001010010110</span>
+    <span>10110010100101101011001010010110</span>
+  </div>
+
+  <div class="binary-column">
+    <span>00110101101001010011010110100101</span>
+    <span>00110101101001010011010110100101</span>
+  </div>
+
+  <div class="binary-column">
+    <span>11001010010110101100101001011010</span>
+    <span>11001010010110101100101001011010</span>
+  </div>
+
+  <div class="binary-column">
+    <span>01101001011001010110100101100101</span>
+    <span>01101001011001010110100101100101</span>
+  </div>
+
+  <div class="binary-column">
+    <span>10010110100110101001011010011010</span>
+    <span>10010110100110101001011010011010</span>
+  </div>
+
+  <div class="binary-column">
+  <span>10100110101001101010011010100110</span>
+  <span>10100110101001101010011010100110</span>
+</div>
+
+<div class="binary-column">
+  <span>01100101011001010110010101100101</span>
+  <span>01100101011001010110010101100101</span>
+</div>
+
+<div class="binary-column">
+  <span>11010010110100101101001011010010</span>
+  <span>11010010110100101101001011010010</span>
+</div>
+
+<div class="binary-column">
+  <span>00101101001011010010110100101101</span>
+  <span>00101101001011010010110100101101</span>
+</div>
+
+<div class="binary-column">
+  <span>10011010100110101001101010011010</span>
+  <span>10011010100110101001101010011010</span>
+</div>
+
+<div class="binary-column">
+  <span>01011001010110010101100101011001</span>
+  <span>01011001010110010101100101011001</span>
+</div>
+
+<div class="binary-column">
+  <span>11001001110010011100100111001001</span>
+  <span>11001001110010011100100111001001</span>
+</div>
+
+<div class="binary-column">
+  <span>00110110001101100011011000110110</span>
+  <span>00110110001101100011011000110110</span>
+</div>
+
+<div class="binary-column">
+  <span>10101001101010011010100110101001</span>
+  <span>10101001101010011010100110101001</span>
+</div>
+
+<div class="binary-column">
+  <span>01101010011010100110101001101010</span>
+  <span>01101010011010100110101001101010</span>
+</div>
+</div>
     <div class="container">
       <h1>
-        <img class="logo" src="img/logo.png" alt="Guess The Word" />
+        <img class="main-logo" src="img/digital-flagship-decode-the-decision-game-logo.png" alt="Digital Flagship: Decode the Decision" />
       </h1>
+      <img class="logo" src="img/logo.png" alt="Guess The Word" />
       <p class="message"></p>
       <p class="word-in-progress"></p>
-      <p class="remaining">You have <span>8 guesses</span> remaining.</p>
+      <p class="remaining">You have <span>10 guesses</span> remaining.</p>
       <ul class="guessed-letters"></ul>
       <form class="guess-form">
         <label for="letter">Type one letter:</label>
@@ -28,9 +110,25 @@
         <div class="form-element button-element">
           <button class="guess">Guess!</button>
         </div>
+        <div class="hint-offer hide">
+  <p>Would you like a hint?</p>
+
+  <div class="hint-actions">
+    <button type="button" class="hint-yes">Yes</button>
+    <button type="button" class="hint-no">No</button>
+  </div>
+</div>
+
+<button type="button" class="hint-request hide">
+  Get a hint
+</button>
+
+<p class="hint-text hide" aria-live="polite"></p>
       </form>
       <button class="play-again hide">Play Again!</button>
     </div>
   </body>
+
+  
 
 </html>

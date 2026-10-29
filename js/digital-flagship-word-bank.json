@@ -1,0 +1,4940 @@
+[
+  {
+    "id": "G001",
+    "answer": "policy",
+    "topic": "Governance",
+    "hint": "A documented rule that guides decisions and behavior."
+  },
+  {
+    "id": "G002",
+    "answer": "oversight",
+    "topic": "Governance",
+    "hint": "Checking that decisions and activities stay on the intended course."
+  },
+  {
+    "id": "G003",
+    "answer": "accountability",
+    "topic": "Governance",
+    "hint": "Being answerable for a decision and its consequences."
+  },
+  {
+    "id": "G004",
+    "answer": "authority",
+    "topic": "Governance",
+    "hint": "The formally granted power to make a decision."
+  },
+  {
+    "id": "G005",
+    "answer": "compliance",
+    "topic": "Governance",
+    "hint": "Meeting the rules and obligations that apply to an organization."
+  },
+  {
+    "id": "G006",
+    "answer": "audit",
+    "topic": "Governance",
+    "hint": "A structured examination of evidence against agreed criteria."
+  },
+  {
+    "id": "G007",
+    "answer": "assurance",
+    "topic": "Governance",
+    "hint": "Confidence supported by evidence that important controls are working."
+  },
+  {
+    "id": "G008",
+    "answer": "ethics",
+    "topic": "Governance",
+    "hint": "Principles used to judge whether a choice is responsible and fair."
+  },
+  {
+    "id": "G009",
+    "answer": "consent",
+    "topic": "Governance",
+    "hint": "Permission given for a particular use or action."
+  },
+  {
+    "id": "G010",
+    "answer": "privacy",
+    "topic": "Governance",
+    "hint": "Managing how information about people is collected, used, and shared."
+  },
+  {
+    "id": "G011",
+    "answer": "stewardship",
+    "topic": "Governance",
+    "hint": "Taking responsible care of resources entrusted to you."
+  },
+  {
+    "id": "G012",
+    "answer": "mandate",
+    "topic": "Governance",
+    "hint": "An official instruction or authorization to act."
+  },
+  {
+    "id": "G013",
+    "answer": "standard",
+    "topic": "Governance",
+    "hint": "An agreed set of requirements used as a common benchmark."
+  },
+  {
+    "id": "G014",
+    "answer": "exception",
+    "topic": "Governance",
+    "hint": "An approved departure from an established rule."
+  },
+  {
+    "id": "G015",
+    "answer": "transparency",
+    "topic": "Governance",
+    "hint": "Making relevant decisions and their reasons visible and understandable."
+  },
+  {
+    "id": "G016",
+    "answer": "governance",
+    "topic": "Governance",
+    "hint": "How an organization directs decisions and holds decision makers answerable."
+  },
+  {
+    "id": "G017",
+    "answer": "responsibility",
+    "topic": "Governance",
+    "hint": "A duty assigned to a person or team."
+  },
+  {
+    "id": "G018",
+    "answer": "ownership",
+    "topic": "Governance",
+    "hint": "Being the named person who takes care of a resource or result."
+  },
+  {
+    "id": "G019",
+    "answer": "obligation",
+    "topic": "Governance",
+    "hint": "Something an organization is required or committed to do."
+  },
+  {
+    "id": "G020",
+    "answer": "duty",
+    "topic": "Governance",
+    "hint": "A task or responsibility someone is expected to fulfill."
+  },
+  {
+    "id": "G021",
+    "answer": "integrity",
+    "topic": "Governance",
+    "hint": "Keeping information accurate and protected against improper changes."
+  },
+  {
+    "id": "G022",
+    "answer": "fairness",
+    "topic": "Governance",
+    "hint": "Treating people without unjust bias or favoritism."
+  },
+  {
+    "id": "G023",
+    "answer": "justice",
+    "topic": "Governance",
+    "hint": "Applying rules and remedies in a way that respects people's rights."
+  },
+  {
+    "id": "G024",
+    "answer": "equity",
+    "topic": "Governance",
+    "hint": "Addressing different needs and barriers to support fair outcomes."
+  },
+  {
+    "id": "G025",
+    "answer": "equality",
+    "topic": "Governance",
+    "hint": "Giving people the same rights, status, or treatment."
+  },
+  {
+    "id": "G026",
+    "answer": "autonomy",
+    "topic": "Governance",
+    "hint": "The ability to make decisions within an agreed area of independence."
+  },
+  {
+    "id": "G027",
+    "answer": "dignity",
+    "topic": "Governance",
+    "hint": "The inherent worth that responsible systems should respect in every person."
+  },
+  {
+    "id": "G028",
+    "answer": "respect",
+    "topic": "Governance",
+    "hint": "Giving proper consideration to people, boundaries, and concerns."
+  },
+  {
+    "id": "G029",
+    "answer": "legitimacy",
+    "topic": "Governance",
+    "hint": "Being recognized as having a rightful basis for exercising power."
+  },
+  {
+    "id": "G030",
+    "answer": "legality",
+    "topic": "Governance",
+    "hint": "Whether an action is permitted under applicable law."
+  },
+  {
+    "id": "G031",
+    "answer": "law",
+    "topic": "Governance",
+    "hint": "A binding rule established through a recognized public authority."
+  },
+  {
+    "id": "G032",
+    "answer": "regulation",
+    "topic": "Governance",
+    "hint": "A binding requirement issued by an authorized rulemaking body."
+  },
+  {
+    "id": "G033",
+    "answer": "legislation",
+    "topic": "Governance",
+    "hint": "Written rules enacted by a lawmaking body."
+  },
+  {
+    "id": "G034",
+    "answer": "statute",
+    "topic": "Governance",
+    "hint": "An enacted written law."
+  },
+  {
+    "id": "G035",
+    "answer": "ordinance",
+    "topic": "Governance",
+    "hint": "A rule enacted by a local government."
+  },
+  {
+    "id": "G036",
+    "answer": "jurisdiction",
+    "topic": "Governance",
+    "hint": "The area or subject over which an authority can make binding decisions."
+  },
+  {
+    "id": "G037",
+    "answer": "precedent",
+    "topic": "Governance",
+    "hint": "An earlier decision used to guide later decisions."
+  },
+  {
+    "id": "G038",
+    "answer": "jurisprudence",
+    "topic": "Governance",
+    "hint": "The study and interpretation of legal principles."
+  },
+  {
+    "id": "G039",
+    "answer": "contract",
+    "topic": "Governance",
+    "hint": "An agreement that creates enforceable obligations."
+  },
+  {
+    "id": "G040",
+    "answer": "agreement",
+    "topic": "Governance",
+    "hint": "A shared understanding or arrangement between parties."
+  },
+  {
+    "id": "G041",
+    "answer": "covenant",
+    "topic": "Governance",
+    "hint": "A formal promise that can impose ongoing obligations."
+  },
+  {
+    "id": "G042",
+    "answer": "charter",
+    "topic": "Governance",
+    "hint": "A document establishing a group's purpose, powers, and boundaries."
+  },
+  {
+    "id": "G043",
+    "answer": "constitution",
+    "topic": "Governance",
+    "hint": "A foundational document defining a governing system and its powers."
+  },
+  {
+    "id": "G044",
+    "answer": "bylaw",
+    "topic": "Governance",
+    "hint": "An internal rule governing how an organization operates."
+  },
+  {
+    "id": "G045",
+    "answer": "enforceability",
+    "topic": "Governance",
+    "hint": "Whether an obligation can be compelled through an authorized process."
+  },
+  {
+    "id": "G046",
+    "answer": "rule",
+    "topic": "Governance",
+    "hint": "An instruction that specifies permitted or required behavior."
+  },
+  {
+    "id": "G047",
+    "answer": "procedure",
+    "topic": "Governance",
+    "hint": "An established sequence of steps for carrying out an activity."
+  },
+  {
+    "id": "G048",
+    "answer": "protocol",
+    "topic": "Governance",
+    "hint": "An agreed set of rules for communication or coordinated action."
+  },
+  {
+    "id": "G049",
+    "answer": "guideline",
+    "topic": "Governance",
+    "hint": "Recommended direction that helps people choose an approach."
+  },
+  {
+    "id": "G050",
+    "answer": "principle",
+    "topic": "Governance",
+    "hint": "A fundamental belief used to guide decisions."
+  },
+  {
+    "id": "G051",
+    "answer": "norm",
+    "topic": "Governance",
+    "hint": "An accepted expectation about behavior within a group."
+  },
+  {
+    "id": "G052",
+    "answer": "convention",
+    "topic": "Governance",
+    "hint": "An established practice followed by common agreement."
+  },
+  {
+    "id": "G053",
+    "answer": "requirement",
+    "topic": "Governance",
+    "hint": "A condition a solution or activity must satisfy."
+  },
+  {
+    "id": "G054",
+    "answer": "provision",
+    "topic": "Governance",
+    "hint": "A specific part of a formal document that sets out a rule or arrangement."
+  },
+  {
+    "id": "G055",
+    "answer": "clause",
+    "topic": "Governance",
+    "hint": "A distinct section of an agreement describing a particular obligation."
+  },
+  {
+    "id": "G056",
+    "answer": "condition",
+    "topic": "Governance",
+    "hint": "Something that must be true before an action or agreement applies."
+  },
+  {
+    "id": "G057",
+    "answer": "term",
+    "topic": "Governance",
+    "hint": "A stated part of an agreement, such as its duration or obligations."
+  },
+  {
+    "id": "G058",
+    "answer": "disclosure",
+    "topic": "Governance",
+    "hint": "Making previously private or unknown information available to others."
+  },
+  {
+    "id": "G059",
+    "answer": "declaration",
+    "topic": "Governance",
+    "hint": "A formal statement of a fact, intention, or position."
+  },
+  {
+    "id": "G060",
+    "answer": "attestation",
+    "topic": "Governance",
+    "hint": "A statement asserting that something meets a stated condition."
+  },
+  {
+    "id": "G061",
+    "answer": "certification",
+    "topic": "Governance",
+    "hint": "Formal confirmation that stated criteria have been met."
+  },
+  {
+    "id": "G062",
+    "answer": "accreditation",
+    "topic": "Governance",
+    "hint": "Formal recognition that a body is competent for specified activities."
+  },
+  {
+    "id": "G063",
+    "answer": "authorization",
+    "topic": "Governance",
+    "hint": "Deciding what an identified person or system is allowed to do."
+  },
+  {
+    "id": "G064",
+    "answer": "delegation",
+    "topic": "Governance",
+    "hint": "Entrusting a task or decision power to someone else."
+  },
+  {
+    "id": "G065",
+    "answer": "escalation",
+    "topic": "Governance",
+    "hint": "Taking an issue to someone with greater decision authority."
+  },
+  {
+    "id": "G066",
+    "answer": "adjudication",
+    "topic": "Governance",
+    "hint": "Resolving a dispute through a formal decision process."
+  },
+  {
+    "id": "G067",
+    "answer": "arbitration",
+    "topic": "Governance",
+    "hint": "Having an agreed third party decide a dispute outside ordinary court proceedings."
+  },
+  {
+    "id": "G068",
+    "answer": "mediation",
+    "topic": "Governance",
+    "hint": "Using a neutral facilitator to help parties reach their own agreement."
+  },
+  {
+    "id": "G069",
+    "answer": "negotiation",
+    "topic": "Governance",
+    "hint": "Discussing differences to reach an acceptable agreement."
+  },
+  {
+    "id": "G070",
+    "answer": "deliberation",
+    "topic": "Governance",
+    "hint": "Carefully considering options and reasons before deciding."
+  },
+  {
+    "id": "G071",
+    "answer": "consultation",
+    "topic": "Governance",
+    "hint": "Seeking affected people's input before making a decision."
+  },
+  {
+    "id": "G072",
+    "answer": "participation",
+    "topic": "Governance",
+    "hint": "Taking an active part in a process or decision."
+  },
+  {
+    "id": "G073",
+    "answer": "representation",
+    "topic": "Governance",
+    "hint": "Speaking or acting on behalf of a group or person."
+  },
+  {
+    "id": "G074",
+    "answer": "quorum",
+    "topic": "Governance",
+    "hint": "The minimum attendance needed for a group to conduct formal business."
+  },
+  {
+    "id": "G075",
+    "answer": "resolution",
+    "topic": "Governance",
+    "hint": "A formal decision adopted by a governing group."
+  },
+  {
+    "id": "G076",
+    "answer": "motion",
+    "topic": "Governance",
+    "hint": "A proposal put before a group for discussion and decision."
+  },
+  {
+    "id": "G077",
+    "answer": "vote",
+    "topic": "Governance",
+    "hint": "An expressed choice used in a collective decision."
+  },
+  {
+    "id": "G078",
+    "answer": "ballot",
+    "topic": "Governance",
+    "hint": "A method or document used to record a formal choice."
+  },
+  {
+    "id": "G079",
+    "answer": "election",
+    "topic": "Governance",
+    "hint": "A process of selecting representatives through voting."
+  },
+  {
+    "id": "G080",
+    "answer": "appointment",
+    "topic": "Governance",
+    "hint": "Assigning someone to an official position."
+  },
+  {
+    "id": "G081",
+    "answer": "nomination",
+    "topic": "Governance",
+    "hint": "Proposing someone for a role or recognition."
+  },
+  {
+    "id": "G082",
+    "answer": "succession",
+    "topic": "Governance",
+    "hint": "Planning who will take over a role when its current holder leaves."
+  },
+  {
+    "id": "G083",
+    "answer": "tenure",
+    "topic": "Governance",
+    "hint": "The period during which someone holds a role."
+  },
+  {
+    "id": "G084",
+    "answer": "sunset",
+    "topic": "Governance",
+    "hint": "A clause that makes a rule or program expire unless renewed."
+  },
+  {
+    "id": "G085",
+    "answer": "impartiality",
+    "topic": "Governance",
+    "hint": "Making decisions without favoring one side unfairly."
+  },
+  {
+    "id": "G086",
+    "answer": "neutrality",
+    "topic": "Governance",
+    "hint": "Avoiding taking sides in a dispute or contest."
+  },
+  {
+    "id": "G087",
+    "answer": "independence",
+    "topic": "Governance",
+    "hint": "Being free from control that could compromise a judgment."
+  },
+  {
+    "id": "G088",
+    "answer": "objectivity",
+    "topic": "Governance",
+    "hint": "Basing a judgment on evidence rather than personal preference."
+  },
+  {
+    "id": "G089",
+    "answer": "conflict",
+    "topic": "Governance",
+    "hint": "A clash between interests, responsibilities, or positions."
+  },
+  {
+    "id": "G090",
+    "answer": "recusal",
+    "topic": "Governance",
+    "hint": "Stepping away from a decision because impartiality could be compromised."
+  },
+  {
+    "id": "G091",
+    "answer": "misconduct",
+    "topic": "Governance",
+    "hint": "Behavior that violates established standards or duties."
+  },
+  {
+    "id": "G092",
+    "answer": "malpractice",
+    "topic": "Governance",
+    "hint": "Improper professional conduct that falls below required standards."
+  },
+  {
+    "id": "G093",
+    "answer": "negligence",
+    "topic": "Governance",
+    "hint": "Failing to exercise the care reasonably expected in a situation."
+  },
+  {
+    "id": "G094",
+    "answer": "liability",
+    "topic": "Governance",
+    "hint": "Legal responsibility for an action, obligation, or harm."
+  },
+  {
+    "id": "G095",
+    "answer": "indemnity",
+    "topic": "Governance",
+    "hint": "Protection against specified losses or liabilities under an agreement."
+  },
+  {
+    "id": "G096",
+    "answer": "indemnification",
+    "topic": "Governance",
+    "hint": "Compensating another party for losses covered by an agreement."
+  },
+  {
+    "id": "G097",
+    "answer": "litigation",
+    "topic": "Governance",
+    "hint": "Resolving a dispute through court proceedings."
+  },
+  {
+    "id": "G098",
+    "answer": "dispute",
+    "topic": "Governance",
+    "hint": "A disagreement requiring discussion or resolution."
+  },
+  {
+    "id": "G099",
+    "answer": "complaint",
+    "topic": "Governance",
+    "hint": "An expression of dissatisfaction requesting attention or action."
+  },
+  {
+    "id": "G100",
+    "answer": "grievance",
+    "topic": "Governance",
+    "hint": "A formally raised concern about unfair treatment or a workplace issue."
+  },
+  {
+    "id": "G101",
+    "answer": "appeal",
+    "topic": "Governance",
+    "hint": "A request for a decision to be reconsidered by a reviewing authority."
+  },
+  {
+    "id": "G102",
+    "answer": "remedy",
+    "topic": "Governance",
+    "hint": "An action that addresses a wrong or its effects."
+  },
+  {
+    "id": "G103",
+    "answer": "redress",
+    "topic": "Governance",
+    "hint": "A correction or compensation provided for a wrong."
+  },
+  {
+    "id": "G104",
+    "answer": "sanction",
+    "topic": "Governance",
+    "hint": "A penalty imposed for breaking a rule."
+  },
+  {
+    "id": "G105",
+    "answer": "penalty",
+    "topic": "Governance",
+    "hint": "An adverse consequence imposed for a violation."
+  },
+  {
+    "id": "G106",
+    "answer": "enforcement",
+    "topic": "Governance",
+    "hint": "Action taken to make rules or obligations effective."
+  },
+  {
+    "id": "G107",
+    "answer": "investigation",
+    "topic": "Governance",
+    "hint": "A systematic effort to establish facts about an issue."
+  },
+  {
+    "id": "G108",
+    "answer": "inquiry",
+    "topic": "Governance",
+    "hint": "A process of asking questions to understand a matter."
+  },
+  {
+    "id": "G109",
+    "answer": "inspection",
+    "topic": "Governance",
+    "hint": "A close examination to check condition or conformity."
+  },
+  {
+    "id": "G110",
+    "answer": "examination",
+    "topic": "Governance",
+    "hint": "A detailed look at information, systems, or evidence."
+  },
+  {
+    "id": "G111",
+    "answer": "scrutiny",
+    "topic": "Governance",
+    "hint": "Careful and critical attention to a decision or activity."
+  },
+  {
+    "id": "G112",
+    "answer": "review",
+    "topic": "Governance",
+    "hint": "Looking again at work or evidence to judge its suitability."
+  },
+  {
+    "id": "G113",
+    "answer": "evaluation",
+    "topic": "Governance",
+    "hint": "Judging merit or effectiveness against criteria."
+  },
+  {
+    "id": "G114",
+    "answer": "assessment",
+    "topic": "Governance",
+    "hint": "Determining the condition, importance, or level of something."
+  },
+  {
+    "id": "G115",
+    "answer": "appraisal",
+    "topic": "Governance",
+    "hint": "An informed judgment about performance, quality, or worth."
+  },
+  {
+    "id": "G116",
+    "answer": "verification",
+    "topic": "Governance",
+    "hint": "Checking that specified requirements have been met."
+  },
+  {
+    "id": "G117",
+    "answer": "validation",
+    "topic": "Governance",
+    "hint": "Checking that a solution meets its intended use and needs."
+  },
+  {
+    "id": "G118",
+    "answer": "evidence",
+    "topic": "Governance",
+    "hint": "Information that supports or challenges a claim."
+  },
+  {
+    "id": "G119",
+    "answer": "documentation",
+    "topic": "Governance",
+    "hint": "Written material explaining decisions, processes, or systems."
+  },
+  {
+    "id": "G120",
+    "answer": "record",
+    "topic": "Governance",
+    "hint": "Information preserved as evidence of an activity or decision."
+  },
+  {
+    "id": "G121",
+    "answer": "recordkeeping",
+    "topic": "Governance",
+    "hint": "Maintaining evidence of activities in an organized way."
+  },
+  {
+    "id": "G122",
+    "answer": "retention",
+    "topic": "Governance",
+    "hint": "Keeping information for an established period."
+  },
+  {
+    "id": "G123",
+    "answer": "disposal",
+    "topic": "Governance",
+    "hint": "An authorized action for removing information or equipment from use."
+  },
+  {
+    "id": "G124",
+    "answer": "preservation",
+    "topic": "Governance",
+    "hint": "Protecting information so it remains available and usable over time."
+  },
+  {
+    "id": "G125",
+    "answer": "provenance",
+    "topic": "Governance",
+    "hint": "The origin and history of information or an artifact."
+  },
+  {
+    "id": "G126",
+    "answer": "traceability",
+    "topic": "Governance",
+    "hint": "The ability to follow an item through its history or related requirements."
+  },
+  {
+    "id": "G127",
+    "answer": "custody",
+    "topic": "Governance",
+    "hint": "Responsibility for holding and protecting an item or evidence."
+  },
+  {
+    "id": "G128",
+    "answer": "confidentiality",
+    "topic": "Governance",
+    "hint": "Keeping information from being disclosed to unauthorized people."
+  },
+  {
+    "id": "G129",
+    "answer": "secrecy",
+    "topic": "Governance",
+    "hint": "Keeping information concealed from others."
+  },
+  {
+    "id": "G130",
+    "answer": "sensitivity",
+    "topic": "Governance",
+    "hint": "How much harm could result from mishandling particular information."
+  },
+  {
+    "id": "G131",
+    "answer": "classification",
+    "topic": "Governance",
+    "hint": "Assigning information to categories that guide its handling."
+  },
+  {
+    "id": "G132",
+    "answer": "declassification",
+    "topic": "Governance",
+    "hint": "Formally removing a previously assigned secrecy designation."
+  },
+  {
+    "id": "G133",
+    "answer": "minimization",
+    "topic": "Governance",
+    "hint": "Limiting collected data to what is needed for a defined purpose."
+  },
+  {
+    "id": "G134",
+    "answer": "limitation",
+    "topic": "Governance",
+    "hint": "A boundary on what a system or activity may do."
+  },
+  {
+    "id": "G135",
+    "answer": "proportionality",
+    "topic": "Governance",
+    "hint": "Keeping an action's intrusiveness in balance with its justified aim."
+  },
+  {
+    "id": "G136",
+    "answer": "necessity",
+    "topic": "Governance",
+    "hint": "Whether an action is needed to achieve a legitimate purpose."
+  },
+  {
+    "id": "G137",
+    "answer": "justification",
+    "topic": "Governance",
+    "hint": "A reasoned explanation supporting a choice."
+  },
+  {
+    "id": "G138",
+    "answer": "rationale",
+    "topic": "Governance",
+    "hint": "The reasoning behind a decision or approach."
+  },
+  {
+    "id": "G139",
+    "answer": "reasoning",
+    "topic": "Governance",
+    "hint": "Connecting evidence and ideas to reach a conclusion."
+  },
+  {
+    "id": "G140",
+    "answer": "interpretation",
+    "topic": "Governance",
+    "hint": "Explaining the meaning of a rule, statement, or result."
+  },
+  {
+    "id": "G141",
+    "answer": "discretion",
+    "topic": "Governance",
+    "hint": "Room to exercise judgment within established boundaries."
+  },
+  {
+    "id": "G142",
+    "answer": "judgment",
+    "topic": "Governance",
+    "hint": "An informed conclusion reached after considering relevant factors."
+  },
+  {
+    "id": "G143",
+    "answer": "prudence",
+    "topic": "Governance",
+    "hint": "Careful decision making that considers possible consequences."
+  },
+  {
+    "id": "G144",
+    "answer": "diligence",
+    "topic": "Governance",
+    "hint": "Sustained care and attention when fulfilling responsibilities."
+  },
+  {
+    "id": "G145",
+    "answer": "vigilance",
+    "topic": "Governance",
+    "hint": "Remaining alert to problems, threats, or changes."
+  },
+  {
+    "id": "G146",
+    "answer": "ratification",
+    "topic": "Governance",
+    "hint": "Formal confirmation of an earlier decision or agreement."
+  },
+  {
+    "id": "G147",
+    "answer": "caution",
+    "topic": "Governance",
+    "hint": "Care taken to avoid unnecessary harm or error."
+  },
+  {
+    "id": "G148",
+    "answer": "prevention",
+    "topic": "Governance",
+    "hint": "Acting to stop an unwanted event before it occurs."
+  },
+  {
+    "id": "G149",
+    "answer": "deterrence",
+    "topic": "Governance",
+    "hint": "Discouraging harmful behavior by making consequences clear."
+  },
+  {
+    "id": "G150",
+    "answer": "correction",
+    "topic": "Governance",
+    "hint": "Changing something to remove an identified error."
+  },
+  {
+    "id": "G151",
+    "answer": "remediation",
+    "topic": "Governance",
+    "hint": "Addressing an identified weakness or problem."
+  },
+  {
+    "id": "G152",
+    "answer": "restitution",
+    "topic": "Governance",
+    "hint": "Restoring something lost or returning an improperly obtained benefit."
+  },
+  {
+    "id": "G153",
+    "answer": "compensation",
+    "topic": "Governance",
+    "hint": "Something provided to make up for a loss or service."
+  },
+  {
+    "id": "G154",
+    "answer": "protection",
+    "topic": "Governance",
+    "hint": "Measures that reduce exposure to harm."
+  },
+  {
+    "id": "G155",
+    "answer": "safeguard",
+    "topic": "Governance",
+    "hint": "A measure designed to reduce a specific risk."
+  },
+  {
+    "id": "G156",
+    "answer": "control",
+    "topic": "Governance",
+    "hint": "A measure used to manage behavior, processes, or risk."
+  },
+  {
+    "id": "G157",
+    "answer": "framework",
+    "topic": "Governance",
+    "hint": "An organized structure for applying related practices and decisions."
+  },
+  {
+    "id": "G158",
+    "answer": "structure",
+    "topic": "Governance",
+    "hint": "The arrangement of roles, parts, and relationships."
+  },
+  {
+    "id": "G159",
+    "answer": "hierarchy",
+    "topic": "Governance",
+    "hint": "A system of ranked levels of authority or organization."
+  },
+  {
+    "id": "G160",
+    "answer": "committee",
+    "topic": "Governance",
+    "hint": "A group assigned to consider or oversee a defined area."
+  },
+  {
+    "id": "G161",
+    "answer": "board",
+    "topic": "Governance",
+    "hint": "A governing group with high-level oversight responsibilities."
+  },
+  {
+    "id": "G162",
+    "answer": "council",
+    "topic": "Governance",
+    "hint": "A group assembled to advise or make collective decisions."
+  },
+  {
+    "id": "G163",
+    "answer": "panel",
+    "topic": "Governance",
+    "hint": "A selected group that reviews a question or body of evidence."
+  },
+  {
+    "id": "G164",
+    "answer": "tribunal",
+    "topic": "Governance",
+    "hint": "A body authorized to decide specified disputes."
+  },
+  {
+    "id": "G165",
+    "answer": "ombudsman",
+    "topic": "Governance",
+    "hint": "An independent role that receives concerns and investigates complaints."
+  },
+  {
+    "id": "G166",
+    "answer": "trustee",
+    "topic": "Governance",
+    "hint": "Someone entrusted with managing assets or duties for others."
+  },
+  {
+    "id": "G167",
+    "answer": "fiduciary",
+    "topic": "Governance",
+    "hint": "Someone required to act in another party's interests within a trusted role."
+  },
+  {
+    "id": "G168",
+    "answer": "custodian",
+    "topic": "Governance",
+    "hint": "The person responsible for maintaining and protecting an asset."
+  },
+  {
+    "id": "G169",
+    "answer": "guardian",
+    "topic": "Governance",
+    "hint": "Someone charged with protecting another person's interests or welfare."
+  },
+  {
+    "id": "G170",
+    "answer": "sponsor",
+    "topic": "Governance",
+    "hint": "A leader who champions an initiative and helps secure support."
+  },
+  {
+    "id": "G171",
+    "answer": "regulator",
+    "topic": "Governance",
+    "hint": "A body that supervises compliance within a defined area."
+  },
+  {
+    "id": "G172",
+    "answer": "auditor",
+    "topic": "Governance",
+    "hint": "Someone who examines evidence against agreed criteria."
+  },
+  {
+    "id": "G173",
+    "answer": "assessor",
+    "topic": "Governance",
+    "hint": "Someone who determines whether stated criteria are satisfied."
+  },
+  {
+    "id": "G174",
+    "answer": "investigator",
+    "topic": "Governance",
+    "hint": "Someone who gathers and examines facts about an event."
+  },
+  {
+    "id": "G175",
+    "answer": "inspector",
+    "topic": "Governance",
+    "hint": "Someone tasked with checking conditions or conformity."
+  },
+  {
+    "id": "G176",
+    "answer": "counsel",
+    "topic": "Governance",
+    "hint": "A legal adviser supporting decisions and obligations."
+  },
+  {
+    "id": "G177",
+    "answer": "adviser",
+    "topic": "Governance",
+    "hint": "Someone who provides informed recommendations."
+  },
+  {
+    "id": "G178",
+    "answer": "explainability",
+    "topic": "Governance",
+    "hint": "The ability to give understandable reasons for a system's output."
+  },
+  {
+    "id": "G179",
+    "answer": "officer",
+    "topic": "Governance",
+    "hint": "A person appointed to a defined organizational responsibility."
+  },
+  {
+    "id": "G180",
+    "answer": "director",
+    "topic": "Governance",
+    "hint": "A person responsible for guiding an organization or major function."
+  },
+  {
+    "id": "G181",
+    "answer": "executive",
+    "topic": "Governance",
+    "hint": "A senior leader responsible for organizational decisions and action."
+  },
+  {
+    "id": "G182",
+    "answer": "chair",
+    "topic": "Governance",
+    "hint": "The person who leads a board or formal meeting."
+  },
+  {
+    "id": "G183",
+    "answer": "secretary",
+    "topic": "Governance",
+    "hint": "A role that maintains formal records and meeting documentation."
+  },
+  {
+    "id": "G184",
+    "answer": "treasurer",
+    "topic": "Governance",
+    "hint": "A role responsible for overseeing funds and financial records."
+  },
+  {
+    "id": "G185",
+    "answer": "commissioner",
+    "topic": "Governance",
+    "hint": "An appointed official with specified administrative or oversight duties."
+  },
+  {
+    "id": "G186",
+    "answer": "administrator",
+    "topic": "Governance",
+    "hint": "Someone who manages a system, service, or organizational process."
+  },
+  {
+    "id": "G187",
+    "answer": "supervisor",
+    "topic": "Governance",
+    "hint": "Someone who oversees other people's work."
+  },
+  {
+    "id": "G188",
+    "answer": "delegate",
+    "topic": "Governance",
+    "hint": "A person authorized to act or speak for others."
+  },
+  {
+    "id": "G189",
+    "answer": "representative",
+    "topic": "Governance",
+    "hint": "Someone chosen to express or protect another group's interests."
+  },
+  {
+    "id": "G190",
+    "answer": "stakeholder",
+    "topic": "Governance",
+    "hint": "Anyone who affects or is affected by a decision or project."
+  },
+  {
+    "id": "G191",
+    "answer": "beneficiary",
+    "topic": "Governance",
+    "hint": "A person or group intended to receive a benefit."
+  },
+  {
+    "id": "G192",
+    "answer": "constituent",
+    "topic": "Governance",
+    "hint": "A member of the population a representative serves."
+  },
+  {
+    "id": "G193",
+    "answer": "citizen",
+    "topic": "Governance",
+    "hint": "A member of a political community with associated rights and duties."
+  },
+  {
+    "id": "G194",
+    "answer": "employee",
+    "topic": "Governance",
+    "hint": "Someone who works for an organization under an employment relationship."
+  },
+  {
+    "id": "G195",
+    "answer": "employer",
+    "topic": "Governance",
+    "hint": "An organization or person that hires people to work."
+  },
+  {
+    "id": "G196",
+    "answer": "contractor",
+    "topic": "Governance",
+    "hint": "An external party engaged to perform specified work."
+  },
+  {
+    "id": "G197",
+    "answer": "supplier",
+    "topic": "Governance",
+    "hint": "A party that provides needed goods or services."
+  },
+  {
+    "id": "G198",
+    "answer": "vendor",
+    "topic": "Governance",
+    "hint": "A business that sells a product or service."
+  },
+  {
+    "id": "G199",
+    "answer": "partner",
+    "topic": "Governance",
+    "hint": "A party working with another toward a shared aim."
+  },
+  {
+    "id": "G200",
+    "answer": "affiliation",
+    "topic": "Governance",
+    "hint": "A formal connection with a group or organization."
+  },
+  {
+    "id": "G201",
+    "answer": "membership",
+    "topic": "Governance",
+    "hint": "The status of belonging to an organized group."
+  },
+  {
+    "id": "G202",
+    "answer": "qualification",
+    "topic": "Governance",
+    "hint": "A credential, skill, or condition required for a role."
+  },
+  {
+    "id": "G203",
+    "answer": "eligibility",
+    "topic": "Governance",
+    "hint": "Meeting the conditions needed to participate or qualify."
+  },
+  {
+    "id": "G204",
+    "answer": "competence",
+    "topic": "Governance",
+    "hint": "The ability to perform a task effectively."
+  },
+  {
+    "id": "G205",
+    "answer": "auditability",
+    "topic": "Governance",
+    "hint": "How readily activities and decisions can be examined using evidence."
+  },
+  {
+    "id": "G206",
+    "answer": "training",
+    "topic": "Governance",
+    "hint": "Structured practice and instruction that help people develop skills."
+  },
+  {
+    "id": "S001",
+    "answer": "strategy",
+    "topic": "Brand and technology strategy",
+    "hint": "A set of choices about goals, priorities, and how to reach them."
+  },
+  {
+    "id": "S002",
+    "answer": "alignment",
+    "topic": "Brand and technology strategy",
+    "hint": "When technology choices and brand goals point in the same direction."
+  },
+  {
+    "id": "S003",
+    "answer": "identity",
+    "topic": "Brand and technology strategy",
+    "hint": "The defining characteristics through which a brand presents itself."
+  },
+  {
+    "id": "S004",
+    "answer": "positioning",
+    "topic": "Brand and technology strategy",
+    "hint": "The place a brand aims to occupy in its audience's mind."
+  },
+  {
+    "id": "S005",
+    "answer": "audience",
+    "topic": "Brand and technology strategy",
+    "hint": "The people a product or message is intended to reach."
+  },
+  {
+    "id": "S006",
+    "answer": "purpose",
+    "topic": "Brand and technology strategy",
+    "hint": "The underlying reason an organization exists and does its work."
+  },
+  {
+    "id": "S007",
+    "answer": "promise",
+    "topic": "Brand and technology strategy",
+    "hint": "What customers are led to expect a brand will consistently deliver."
+  },
+  {
+    "id": "S008",
+    "answer": "trust",
+    "topic": "Brand and technology strategy",
+    "hint": "Confidence that an organization will act reliably and responsibly."
+  },
+  {
+    "id": "S009",
+    "answer": "experience",
+    "topic": "Brand and technology strategy",
+    "hint": "What someone encounters and feels while interacting with a service."
+  },
+  {
+    "id": "S010",
+    "answer": "consistency",
+    "topic": "Brand and technology strategy",
+    "hint": "Delivering a recognizable, dependable result across different interactions."
+  },
+  {
+    "id": "S011",
+    "answer": "accessibility",
+    "topic": "Brand and technology strategy",
+    "hint": "Designing so people with disabilities can use a product or service."
+  },
+  {
+    "id": "S012",
+    "answer": "inclusion",
+    "topic": "Brand and technology strategy",
+    "hint": "Enabling people with different backgrounds and needs to participate."
+  },
+  {
+    "id": "S013",
+    "answer": "value",
+    "topic": "Brand and technology strategy",
+    "hint": "The benefit a solution provides relative to its costs and tradeoffs."
+  },
+  {
+    "id": "S014",
+    "answer": "reputation",
+    "topic": "Brand and technology strategy",
+    "hint": "What others collectively believe about an organization over time."
+  },
+  {
+    "id": "S015",
+    "answer": "differentiation",
+    "topic": "Brand and technology strategy",
+    "hint": "The meaningful qualities that set an offering apart from alternatives."
+  },
+  {
+    "id": "S016",
+    "answer": "brand",
+    "topic": "Brand and technology strategy",
+    "hint": "The meaning and expectations people associate with an organization or offering."
+  },
+  {
+    "id": "S017",
+    "answer": "branding",
+    "topic": "Brand and technology strategy",
+    "hint": "The work of shaping an offering's recognizable identity and associations."
+  },
+  {
+    "id": "S018",
+    "answer": "vision",
+    "topic": "Brand and technology strategy",
+    "hint": "A description of the future an organization hopes to create."
+  },
+  {
+    "id": "S019",
+    "answer": "mission",
+    "topic": "Brand and technology strategy",
+    "hint": "A statement of what an organization does and whom it serves."
+  },
+  {
+    "id": "S020",
+    "answer": "ambition",
+    "topic": "Brand and technology strategy",
+    "hint": "The level of achievement an organization aims to reach."
+  },
+  {
+    "id": "S021",
+    "answer": "aspiration",
+    "topic": "Brand and technology strategy",
+    "hint": "A desired future condition that guides effort."
+  },
+  {
+    "id": "S022",
+    "answer": "direction",
+    "topic": "Brand and technology strategy",
+    "hint": "The course an organization chooses to follow."
+  },
+  {
+    "id": "S023",
+    "answer": "focus",
+    "topic": "Brand and technology strategy",
+    "hint": "Concentrating attention and resources on selected priorities."
+  },
+  {
+    "id": "S024",
+    "answer": "priority",
+    "topic": "Brand and technology strategy",
+    "hint": "Something judged more important than competing demands."
+  },
+  {
+    "id": "S025",
+    "answer": "objective",
+    "topic": "Brand and technology strategy",
+    "hint": "A specific result that planned action is intended to achieve."
+  },
+  {
+    "id": "S026",
+    "answer": "goal",
+    "topic": "Brand and technology strategy",
+    "hint": "An outcome that gives effort a clear destination."
+  },
+  {
+    "id": "S027",
+    "answer": "target",
+    "topic": "Brand and technology strategy",
+    "hint": "A defined level of performance a team aims to reach."
+  },
+  {
+    "id": "S028",
+    "answer": "intent",
+    "topic": "Brand and technology strategy",
+    "hint": "The purpose behind a planned action."
+  },
+  {
+    "id": "S029",
+    "answer": "investment",
+    "topic": "Brand and technology strategy",
+    "hint": "Resources committed now in expectation of future benefit."
+  },
+  {
+    "id": "S030",
+    "answer": "insight",
+    "topic": "Brand and technology strategy",
+    "hint": "A useful understanding that changes how a problem is seen."
+  },
+  {
+    "id": "S031",
+    "answer": "research",
+    "topic": "Brand and technology strategy",
+    "hint": "Systematically gathering information to answer a question."
+  },
+  {
+    "id": "S032",
+    "answer": "discovery",
+    "topic": "Brand and technology strategy",
+    "hint": "Early exploration of people's needs and the problem to solve."
+  },
+  {
+    "id": "S033",
+    "answer": "analysis",
+    "topic": "Brand and technology strategy",
+    "hint": "Breaking information into parts to understand patterns and relationships."
+  },
+  {
+    "id": "S034",
+    "answer": "synthesis",
+    "topic": "Brand and technology strategy",
+    "hint": "Combining findings into a meaningful whole."
+  },
+  {
+    "id": "S035",
+    "answer": "intelligence",
+    "topic": "Brand and technology strategy",
+    "hint": "Information interpreted to support informed decisions."
+  },
+  {
+    "id": "S036",
+    "answer": "knowledge",
+    "topic": "Brand and technology strategy",
+    "hint": "Information and understanding gained through learning or experience."
+  },
+  {
+    "id": "S037",
+    "answer": "wisdom",
+    "topic": "Brand and technology strategy",
+    "hint": "Sound judgment about how and when to apply what is known."
+  },
+  {
+    "id": "S038",
+    "answer": "understanding",
+    "topic": "Brand and technology strategy",
+    "hint": "Grasping what something means and how its parts relate."
+  },
+  {
+    "id": "S039",
+    "answer": "learning",
+    "topic": "Brand and technology strategy",
+    "hint": "Developing understanding or skill through study and experience."
+  },
+  {
+    "id": "S040",
+    "answer": "curiosity",
+    "topic": "Brand and technology strategy",
+    "hint": "The desire to ask questions and explore what is unknown."
+  },
+  {
+    "id": "S041",
+    "answer": "creativity",
+    "topic": "Brand and technology strategy",
+    "hint": "Generating useful ideas through new connections and approaches."
+  },
+  {
+    "id": "S042",
+    "answer": "imagination",
+    "topic": "Brand and technology strategy",
+    "hint": "The ability to picture possibilities beyond current conditions."
+  },
+  {
+    "id": "S043",
+    "answer": "innovation",
+    "topic": "Brand and technology strategy",
+    "hint": "Putting a new or improved idea into useful practice."
+  },
+  {
+    "id": "S044",
+    "answer": "invention",
+    "topic": "Brand and technology strategy",
+    "hint": "Creating a new device, method, or concept."
+  },
+  {
+    "id": "S045",
+    "answer": "disruption",
+    "topic": "Brand and technology strategy",
+    "hint": "A change that significantly unsettles existing practices or markets."
+  },
+  {
+    "id": "S046",
+    "answer": "transformation",
+    "topic": "Brand and technology strategy",
+    "hint": "A substantial change in how an organization operates or delivers value."
+  },
+  {
+    "id": "S047",
+    "answer": "evolution",
+    "topic": "Brand and technology strategy",
+    "hint": "Gradual development through successive changes."
+  },
+  {
+    "id": "S048",
+    "answer": "adaptation",
+    "topic": "Brand and technology strategy",
+    "hint": "Changing an approach to fit new conditions."
+  },
+  {
+    "id": "S049",
+    "answer": "renewal",
+    "topic": "Brand and technology strategy",
+    "hint": "Refreshing an existing capability or direction."
+  },
+  {
+    "id": "S050",
+    "answer": "reinvention",
+    "topic": "Brand and technology strategy",
+    "hint": "Rethinking an established identity or approach in a substantial way."
+  },
+  {
+    "id": "S051",
+    "answer": "growth",
+    "topic": "Brand and technology strategy",
+    "hint": "An increase in reach, capability, or business activity."
+  },
+  {
+    "id": "S052",
+    "answer": "expansion",
+    "topic": "Brand and technology strategy",
+    "hint": "Extending an offering into additional areas or markets."
+  },
+  {
+    "id": "S053",
+    "answer": "scale",
+    "topic": "Brand and technology strategy",
+    "hint": "The size or reach at which an organization operates."
+  },
+  {
+    "id": "S054",
+    "answer": "scalability",
+    "topic": "Brand and technology strategy",
+    "hint": "The ability to handle greater demand without unacceptable loss of performance."
+  },
+  {
+    "id": "S055",
+    "answer": "opportunity",
+    "topic": "Brand and technology strategy",
+    "hint": "A situation that could be turned into useful progress or benefit."
+  },
+  {
+    "id": "S056",
+    "answer": "advantage",
+    "topic": "Brand and technology strategy",
+    "hint": "A favorable quality or position relative to alternatives."
+  },
+  {
+    "id": "S057",
+    "answer": "strength",
+    "topic": "Brand and technology strategy",
+    "hint": "An internal capability that supports successful action."
+  },
+  {
+    "id": "S058",
+    "answer": "weakness",
+    "topic": "Brand and technology strategy",
+    "hint": "An internal limitation that can hinder results."
+  },
+  {
+    "id": "S059",
+    "answer": "capability",
+    "topic": "Brand and technology strategy",
+    "hint": "An ability an organization can draw on to achieve outcomes."
+  },
+  {
+    "id": "S060",
+    "answer": "capacity",
+    "topic": "Brand and technology strategy",
+    "hint": "The amount of work or demand something can handle."
+  },
+  {
+    "id": "S061",
+    "answer": "potential",
+    "topic": "Brand and technology strategy",
+    "hint": "The possibility of future development or achievement."
+  },
+  {
+    "id": "S062",
+    "answer": "readiness",
+    "topic": "Brand and technology strategy",
+    "hint": "Being sufficiently prepared to proceed with a change."
+  },
+  {
+    "id": "S063",
+    "answer": "maturity",
+    "topic": "Brand and technology strategy",
+    "hint": "How developed and consistently managed a practice has become."
+  },
+  {
+    "id": "S064",
+    "answer": "relevance",
+    "topic": "Brand and technology strategy",
+    "hint": "How closely something relates to the needs at hand."
+  },
+  {
+    "id": "S065",
+    "answer": "resonance",
+    "topic": "Brand and technology strategy",
+    "hint": "How strongly a message connects with its intended audience."
+  },
+  {
+    "id": "S066",
+    "answer": "recognition",
+    "topic": "Brand and technology strategy",
+    "hint": "Identifying a familiar brand when encountering its cues."
+  },
+  {
+    "id": "S067",
+    "answer": "awareness",
+    "topic": "Brand and technology strategy",
+    "hint": "Knowing that an offering or issue exists."
+  },
+  {
+    "id": "S068",
+    "answer": "recall",
+    "topic": "Brand and technology strategy",
+    "hint": "Remembering a brand without being shown its identifying cues."
+  },
+  {
+    "id": "S069",
+    "answer": "familiarity",
+    "topic": "Brand and technology strategy",
+    "hint": "Knowledge developed through repeated exposure or experience."
+  },
+  {
+    "id": "S070",
+    "answer": "preference",
+    "topic": "Brand and technology strategy",
+    "hint": "Favoring one option over available alternatives."
+  },
+  {
+    "id": "S071",
+    "answer": "perception",
+    "topic": "Brand and technology strategy",
+    "hint": "The way someone interprets and understands an offering."
+  },
+  {
+    "id": "S072",
+    "answer": "sentiment",
+    "topic": "Brand and technology strategy",
+    "hint": "The positive, negative, or mixed attitude expressed about something."
+  },
+  {
+    "id": "S073",
+    "answer": "emotion",
+    "topic": "Brand and technology strategy",
+    "hint": "A feeling that can shape people's responses and choices."
+  },
+  {
+    "id": "S074",
+    "answer": "feeling",
+    "topic": "Brand and technology strategy",
+    "hint": "A person's subjective emotional response to an interaction."
+  },
+  {
+    "id": "S075",
+    "answer": "empathy",
+    "topic": "Brand and technology strategy",
+    "hint": "Understanding another person's perspective and needs."
+  },
+  {
+    "id": "S076",
+    "answer": "compassion",
+    "topic": "Brand and technology strategy",
+    "hint": "Concern for others that motivates supportive action."
+  },
+  {
+    "id": "S077",
+    "answer": "belonging",
+    "topic": "Brand and technology strategy",
+    "hint": "Feeling accepted and connected within a group."
+  },
+  {
+    "id": "S078",
+    "answer": "connection",
+    "topic": "Brand and technology strategy",
+    "hint": "A meaningful link between people, ideas, or organizations."
+  },
+  {
+    "id": "S079",
+    "answer": "relationship",
+    "topic": "Brand and technology strategy",
+    "hint": "An ongoing association built through repeated interactions."
+  },
+  {
+    "id": "S080",
+    "answer": "loyalty",
+    "topic": "Brand and technology strategy",
+    "hint": "Continued preference or commitment to a brand over time."
+  },
+  {
+    "id": "S081",
+    "answer": "advocacy",
+    "topic": "Brand and technology strategy",
+    "hint": "Actively recommending or supporting an offering to others."
+  },
+  {
+    "id": "S082",
+    "answer": "affinity",
+    "topic": "Brand and technology strategy",
+    "hint": "A sense of natural liking or identification with a brand."
+  },
+  {
+    "id": "S083",
+    "answer": "attachment",
+    "topic": "Brand and technology strategy",
+    "hint": "An emotional bond that makes an offering personally meaningful."
+  },
+  {
+    "id": "S084",
+    "answer": "engagement",
+    "topic": "Brand and technology strategy",
+    "hint": "Active attention and involvement with an organization or offering."
+  },
+  {
+    "id": "S085",
+    "answer": "involvement",
+    "topic": "Brand and technology strategy",
+    "hint": "The degree of personal interest or participation in something."
+  },
+  {
+    "id": "S086",
+    "answer": "community",
+    "topic": "Brand and technology strategy",
+    "hint": "People connected by shared interests, needs, or identity."
+  },
+  {
+    "id": "S087",
+    "answer": "network",
+    "topic": "Brand and technology strategy",
+    "hint": "A set of connected people, organizations, or systems."
+  },
+  {
+    "id": "S088",
+    "answer": "ecosystem",
+    "topic": "Brand and technology strategy",
+    "hint": "Interdependent participants and services surrounding an offering."
+  },
+  {
+    "id": "S089",
+    "answer": "partnership",
+    "topic": "Brand and technology strategy",
+    "hint": "An arrangement to work together toward shared goals."
+  },
+  {
+    "id": "S090",
+    "answer": "alliance",
+    "topic": "Brand and technology strategy",
+    "hint": "A cooperative relationship between otherwise separate organizations."
+  },
+  {
+    "id": "S091",
+    "answer": "collaboration",
+    "topic": "Brand and technology strategy",
+    "hint": "Working together to create or achieve something."
+  },
+  {
+    "id": "S092",
+    "answer": "cooperation",
+    "topic": "Brand and technology strategy",
+    "hint": "Helping coordinate effort toward a shared result."
+  },
+  {
+    "id": "S093",
+    "answer": "coordination",
+    "topic": "Brand and technology strategy",
+    "hint": "Organizing separate activities so they work together effectively."
+  },
+  {
+    "id": "S094",
+    "answer": "synergy",
+    "topic": "Brand and technology strategy",
+    "hint": "A benefit produced when combined efforts work better together."
+  },
+  {
+    "id": "S095",
+    "answer": "cohesion",
+    "topic": "Brand and technology strategy",
+    "hint": "How strongly a group's parts hold together."
+  },
+  {
+    "id": "S096",
+    "answer": "coherence",
+    "topic": "Brand and technology strategy",
+    "hint": "How logically the parts of an offering fit together."
+  },
+  {
+    "id": "S097",
+    "answer": "congruence",
+    "topic": "Brand and technology strategy",
+    "hint": "Agreement between what a brand says and what it does."
+  },
+  {
+    "id": "S098",
+    "answer": "authenticity",
+    "topic": "Brand and technology strategy",
+    "hint": "Being perceived as true to stated identity and commitments."
+  },
+  {
+    "id": "S099",
+    "answer": "credibility",
+    "topic": "Brand and technology strategy",
+    "hint": "Being considered believable and worthy of confidence."
+  },
+  {
+    "id": "S100",
+    "answer": "confidence",
+    "topic": "Brand and technology strategy",
+    "hint": "A belief that a person or offering can deliver as expected."
+  },
+  {
+    "id": "S101",
+    "answer": "dependability",
+    "topic": "Brand and technology strategy",
+    "hint": "Being counted on to deliver reliably over time."
+  },
+  {
+    "id": "S102",
+    "answer": "reliability",
+    "topic": "Brand and technology strategy",
+    "hint": "Performing as expected under stated conditions."
+  },
+  {
+    "id": "S103",
+    "answer": "excellence",
+    "topic": "Brand and technology strategy",
+    "hint": "A consistently high level of quality or performance."
+  },
+  {
+    "id": "S104",
+    "answer": "quality",
+    "topic": "Brand and technology strategy",
+    "hint": "How well an offering meets relevant needs and expectations."
+  },
+  {
+    "id": "S105",
+    "answer": "utility",
+    "topic": "Brand and technology strategy",
+    "hint": "The practical benefit an offering provides."
+  },
+  {
+    "id": "S106",
+    "answer": "usefulness",
+    "topic": "Brand and technology strategy",
+    "hint": "How much something helps a person accomplish a meaningful task."
+  },
+  {
+    "id": "S107",
+    "answer": "usability",
+    "topic": "Brand and technology strategy",
+    "hint": "How effectively and easily intended users can achieve their goals."
+  },
+  {
+    "id": "S108",
+    "answer": "desirability",
+    "topic": "Brand and technology strategy",
+    "hint": "How appealing an offering is to the people it serves."
+  },
+  {
+    "id": "S109",
+    "answer": "feasibility",
+    "topic": "Brand and technology strategy",
+    "hint": "Whether an idea can realistically be carried out."
+  },
+  {
+    "id": "S110",
+    "answer": "viability",
+    "topic": "Brand and technology strategy",
+    "hint": "Whether an approach can sustain itself over time."
+  },
+  {
+    "id": "S111",
+    "answer": "profitability",
+    "topic": "Brand and technology strategy",
+    "hint": "The ability to earn more than the associated costs."
+  },
+  {
+    "id": "S112",
+    "answer": "productivity",
+    "topic": "Brand and technology strategy",
+    "hint": "The amount of useful output produced with available resources."
+  },
+  {
+    "id": "S113",
+    "answer": "efficiency",
+    "topic": "Brand and technology strategy",
+    "hint": "Achieving results while minimizing unnecessary resource use."
+  },
+  {
+    "id": "S114",
+    "answer": "effectiveness",
+    "topic": "Brand and technology strategy",
+    "hint": "How well an action achieves its intended result."
+  },
+  {
+    "id": "S115",
+    "answer": "agility",
+    "topic": "Brand and technology strategy",
+    "hint": "The ability to respond quickly and thoughtfully to change."
+  },
+  {
+    "id": "S116",
+    "answer": "flexibility",
+    "topic": "Brand and technology strategy",
+    "hint": "The ability to accommodate different needs or arrangements."
+  },
+  {
+    "id": "S117",
+    "answer": "adaptability",
+    "topic": "Brand and technology strategy",
+    "hint": "The ability to adjust successfully when conditions change."
+  },
+  {
+    "id": "S118",
+    "answer": "responsiveness",
+    "topic": "Brand and technology strategy",
+    "hint": "How promptly and appropriately a service reacts to people's needs."
+  },
+  {
+    "id": "S119",
+    "answer": "distinctiveness",
+    "topic": "Brand and technology strategy",
+    "hint": "How readily an offering can be recognized as different."
+  },
+  {
+    "id": "S120",
+    "answer": "prioritization",
+    "topic": "Brand and technology strategy",
+    "hint": "Deciding which needs or tasks should receive attention first."
+  },
+  {
+    "id": "S121",
+    "answer": "originality",
+    "topic": "Brand and technology strategy",
+    "hint": "The quality of introducing an approach that is not merely copied."
+  },
+  {
+    "id": "S122",
+    "answer": "uniqueness",
+    "topic": "Brand and technology strategy",
+    "hint": "The quality of having characteristics not shared by others."
+  },
+  {
+    "id": "S123",
+    "answer": "personality",
+    "topic": "Brand and technology strategy",
+    "hint": "The human characteristics associated with a brand."
+  },
+  {
+    "id": "S124",
+    "answer": "character",
+    "topic": "Brand and technology strategy",
+    "hint": "The enduring qualities that shape a brand's behavior."
+  },
+  {
+    "id": "S125",
+    "answer": "voice",
+    "topic": "Brand and technology strategy",
+    "hint": "A brand's consistent way of expressing itself in words."
+  },
+  {
+    "id": "S126",
+    "answer": "tone",
+    "topic": "Brand and technology strategy",
+    "hint": "The attitude a message expresses in a particular situation."
+  },
+  {
+    "id": "S127",
+    "answer": "language",
+    "topic": "Brand and technology strategy",
+    "hint": "The words and structures used to communicate meaning."
+  },
+  {
+    "id": "S128",
+    "answer": "vocabulary",
+    "topic": "Brand and technology strategy",
+    "hint": "The collection of words used in a field or communication style."
+  },
+  {
+    "id": "S129",
+    "answer": "narrative",
+    "topic": "Brand and technology strategy",
+    "hint": "A connected account that gives events or choices meaning."
+  },
+  {
+    "id": "S130",
+    "answer": "story",
+    "topic": "Brand and technology strategy",
+    "hint": "An account of events used to communicate an idea or experience."
+  },
+  {
+    "id": "S131",
+    "answer": "storytelling",
+    "topic": "Brand and technology strategy",
+    "hint": "Using connected events and characters to communicate meaning."
+  },
+  {
+    "id": "S132",
+    "answer": "message",
+    "topic": "Brand and technology strategy",
+    "hint": "The central idea a communication is intended to convey."
+  },
+  {
+    "id": "S133",
+    "answer": "messaging",
+    "topic": "Brand and technology strategy",
+    "hint": "The planned language used to communicate an offering's meaning."
+  },
+  {
+    "id": "S134",
+    "answer": "meaning",
+    "topic": "Brand and technology strategy",
+    "hint": "The significance people attach to a message or experience."
+  },
+  {
+    "id": "S135",
+    "answer": "symbolism",
+    "topic": "Brand and technology strategy",
+    "hint": "Using recognizable signs to represent ideas or values."
+  },
+  {
+    "id": "S136",
+    "answer": "symbol",
+    "topic": "Brand and technology strategy",
+    "hint": "A sign that stands for an idea beyond its literal form."
+  },
+  {
+    "id": "S137",
+    "answer": "icon",
+    "topic": "Brand and technology strategy",
+    "hint": "A compact visual sign representing an action, object, or concept."
+  },
+  {
+    "id": "S138",
+    "answer": "emblem",
+    "topic": "Brand and technology strategy",
+    "hint": "A visual mark representing an organization or identity."
+  },
+  {
+    "id": "S139",
+    "answer": "logo",
+    "topic": "Brand and technology strategy",
+    "hint": "A distinctive graphic mark used to identify a brand."
+  },
+  {
+    "id": "S140",
+    "answer": "typography",
+    "topic": "Brand and technology strategy",
+    "hint": "The arrangement and appearance of written characters in a design."
+  },
+  {
+    "id": "S141",
+    "answer": "typeface",
+    "topic": "Brand and technology strategy",
+    "hint": "A coordinated design family of letters and other characters."
+  },
+  {
+    "id": "S142",
+    "answer": "font",
+    "topic": "Brand and technology strategy",
+    "hint": "A particular style or instance of a typeface used to display text."
+  },
+  {
+    "id": "S143",
+    "answer": "lettering",
+    "topic": "Brand and technology strategy",
+    "hint": "The designed or drawn shapes of written characters."
+  },
+  {
+    "id": "S144",
+    "answer": "illustration",
+    "topic": "Brand and technology strategy",
+    "hint": "An image created to explain, decorate, or communicate an idea."
+  },
+  {
+    "id": "S145",
+    "answer": "photography",
+    "topic": "Brand and technology strategy",
+    "hint": "Creating images by capturing light with a camera."
+  },
+  {
+    "id": "S146",
+    "answer": "imagery",
+    "topic": "Brand and technology strategy",
+    "hint": "The visual material used to communicate a brand's ideas."
+  },
+  {
+    "id": "S147",
+    "answer": "portfolio",
+    "topic": "Brand and technology strategy",
+    "hint": "A collection of offerings, projects, or investments managed together."
+  },
+  {
+    "id": "S148",
+    "answer": "color",
+    "topic": "Brand and technology strategy",
+    "hint": "A visual property used to create emphasis, mood, and recognition."
+  },
+  {
+    "id": "S149",
+    "answer": "palette",
+    "topic": "Brand and technology strategy",
+    "hint": "The selected collection of colors used in a design."
+  },
+  {
+    "id": "S150",
+    "answer": "contrast",
+    "topic": "Brand and technology strategy",
+    "hint": "A noticeable difference that helps separate visual elements."
+  },
+  {
+    "id": "S151",
+    "answer": "composition",
+    "topic": "Brand and technology strategy",
+    "hint": "The arrangement of visual elements within a design."
+  },
+  {
+    "id": "S152",
+    "answer": "proportion",
+    "topic": "Brand and technology strategy",
+    "hint": "The size relationship between parts of a design."
+  },
+  {
+    "id": "S153",
+    "answer": "rhythm",
+    "topic": "Brand and technology strategy",
+    "hint": "A sense of movement created by repeated visual elements."
+  },
+  {
+    "id": "S154",
+    "answer": "whitespace",
+    "topic": "Brand and technology strategy",
+    "hint": "Unoccupied space that helps organize and separate content."
+  },
+  {
+    "id": "S155",
+    "answer": "spacing",
+    "topic": "Brand and technology strategy",
+    "hint": "The distance between elements in a layout."
+  },
+  {
+    "id": "S156",
+    "answer": "texture",
+    "topic": "Brand and technology strategy",
+    "hint": "A visual or physical surface quality that adds character."
+  },
+  {
+    "id": "S157",
+    "answer": "pattern",
+    "topic": "Brand and technology strategy",
+    "hint": "A repeated arrangement of visual elements."
+  },
+  {
+    "id": "S158",
+    "answer": "motif",
+    "topic": "Brand and technology strategy",
+    "hint": "A recurring visual theme used to reinforce identity."
+  },
+  {
+    "id": "S159",
+    "answer": "aesthetic",
+    "topic": "Brand and technology strategy",
+    "hint": "The overall visual character or artistic style of an offering."
+  },
+  {
+    "id": "S160",
+    "answer": "monetization",
+    "topic": "Brand and technology strategy",
+    "hint": "Turning an offering or activity into a source of revenue."
+  },
+  {
+    "id": "S161",
+    "answer": "style",
+    "topic": "Brand and technology strategy",
+    "hint": "A recognizable way of presenting visual or written material."
+  },
+  {
+    "id": "S162",
+    "answer": "proposition",
+    "topic": "Brand and technology strategy",
+    "hint": "A statement of the benefit an offering promises its audience."
+  },
+  {
+    "id": "S163",
+    "answer": "design",
+    "topic": "Brand and technology strategy",
+    "hint": "Purposefully shaping how something works and is experienced."
+  },
+  {
+    "id": "S164",
+    "answer": "craft",
+    "topic": "Brand and technology strategy",
+    "hint": "Skillful attention to how something is made."
+  },
+  {
+    "id": "S165",
+    "answer": "craftsmanship",
+    "topic": "Brand and technology strategy",
+    "hint": "The quality resulting from careful and skilled execution."
+  },
+  {
+    "id": "S166",
+    "answer": "simplicity",
+    "topic": "Brand and technology strategy",
+    "hint": "Removing unnecessary complexity while preserving what people need."
+  },
+  {
+    "id": "S167",
+    "answer": "clarity",
+    "topic": "Brand and technology strategy",
+    "hint": "How easily a message or interface can be understood."
+  },
+  {
+    "id": "S168",
+    "answer": "brevity",
+    "topic": "Brand and technology strategy",
+    "hint": "Expressing a message with few unnecessary words."
+  },
+  {
+    "id": "S169",
+    "answer": "precision",
+    "topic": "Brand and technology strategy",
+    "hint": "Expressing or measuring something with careful specificity."
+  },
+  {
+    "id": "S170",
+    "answer": "accuracy",
+    "topic": "Brand and technology strategy",
+    "hint": "How closely information matches what is true or correct."
+  },
+  {
+    "id": "S171",
+    "answer": "honesty",
+    "topic": "Brand and technology strategy",
+    "hint": "Communicating truthfully without deliberate deception."
+  },
+  {
+    "id": "S172",
+    "answer": "sincerity",
+    "topic": "Brand and technology strategy",
+    "hint": "Expressing a position in a way that reflects genuine intent."
+  },
+  {
+    "id": "S173",
+    "answer": "warmth",
+    "topic": "Brand and technology strategy",
+    "hint": "A welcoming and approachable quality in communication."
+  },
+  {
+    "id": "S174",
+    "answer": "optimism",
+    "topic": "Brand and technology strategy",
+    "hint": "An expectation that useful progress is possible."
+  },
+  {
+    "id": "S175",
+    "answer": "courage",
+    "topic": "Brand and technology strategy",
+    "hint": "Willingness to act despite difficulty or uncertainty."
+  },
+  {
+    "id": "S176",
+    "answer": "persona",
+    "topic": "Brand and technology strategy",
+    "hint": "A research-informed representation of a group of intended users."
+  },
+  {
+    "id": "S177",
+    "answer": "segment",
+    "topic": "Brand and technology strategy",
+    "hint": "A group within a market sharing selected characteristics."
+  },
+  {
+    "id": "S178",
+    "answer": "segmentation",
+    "topic": "Brand and technology strategy",
+    "hint": "Dividing a broad audience into meaningful groups."
+  },
+  {
+    "id": "S179",
+    "answer": "demographic",
+    "topic": "Brand and technology strategy",
+    "hint": "A population characteristic such as age or location."
+  },
+  {
+    "id": "S180",
+    "answer": "psychographic",
+    "topic": "Brand and technology strategy",
+    "hint": "A characteristic related to people's values, interests, or lifestyles."
+  },
+  {
+    "id": "S181",
+    "answer": "behavior",
+    "topic": "Brand and technology strategy",
+    "hint": "What people actually do when interacting with an offering."
+  },
+  {
+    "id": "S182",
+    "answer": "motivation",
+    "topic": "Brand and technology strategy",
+    "hint": "The reason that drives a person's action."
+  },
+  {
+    "id": "S183",
+    "answer": "need",
+    "topic": "Brand and technology strategy",
+    "hint": "Something a person requires to achieve a goal or address a problem."
+  },
+  {
+    "id": "S184",
+    "answer": "expectation",
+    "topic": "Brand and technology strategy",
+    "hint": "What someone anticipates an offering will do or provide."
+  },
+  {
+    "id": "S185",
+    "answer": "desire",
+    "topic": "Brand and technology strategy",
+    "hint": "Something a person wants, beyond what may be strictly necessary."
+  },
+  {
+    "id": "S186",
+    "answer": "frustration",
+    "topic": "Brand and technology strategy",
+    "hint": "A negative response when an obstacle blocks an intended goal."
+  },
+  {
+    "id": "S187",
+    "answer": "barrier",
+    "topic": "Brand and technology strategy",
+    "hint": "An obstacle that prevents access, participation, or progress."
+  },
+  {
+    "id": "S188",
+    "answer": "friction",
+    "topic": "Brand and technology strategy",
+    "hint": "Effort or difficulty that slows an interaction."
+  },
+  {
+    "id": "S189",
+    "answer": "journey",
+    "topic": "Brand and technology strategy",
+    "hint": "The sequence of experiences someone has while pursuing a goal."
+  },
+  {
+    "id": "S190",
+    "answer": "touchpoint",
+    "topic": "Brand and technology strategy",
+    "hint": "A particular moment of interaction with a brand or service."
+  },
+  {
+    "id": "S191",
+    "answer": "channel",
+    "topic": "Brand and technology strategy",
+    "hint": "A route through which a brand reaches or serves people."
+  },
+  {
+    "id": "S192",
+    "answer": "platform",
+    "topic": "Brand and technology strategy",
+    "hint": "A shared foundation supporting applications, services, or interactions."
+  },
+  {
+    "id": "S193",
+    "answer": "medium",
+    "topic": "Brand and technology strategy",
+    "hint": "The form through which a message is communicated."
+  },
+  {
+    "id": "S194",
+    "answer": "media",
+    "topic": "Brand and technology strategy",
+    "hint": "Communication outlets and formats used to reach audiences."
+  },
+  {
+    "id": "S195",
+    "answer": "content",
+    "topic": "Brand and technology strategy",
+    "hint": "Information presented through text, images, audio, or other formats."
+  },
+  {
+    "id": "S196",
+    "answer": "context",
+    "topic": "Brand and technology strategy",
+    "hint": "The surrounding circumstances that shape an interaction's meaning."
+  },
+  {
+    "id": "S197",
+    "answer": "personalization",
+    "topic": "Brand and technology strategy",
+    "hint": "Adapting an experience using information about a particular user."
+  },
+  {
+    "id": "S198",
+    "answer": "customization",
+    "topic": "Brand and technology strategy",
+    "hint": "Allowing people to adjust an experience to their preferences."
+  },
+  {
+    "id": "S199",
+    "answer": "localization",
+    "topic": "Brand and technology strategy",
+    "hint": "Adapting an offering to a particular language and regional context."
+  },
+  {
+    "id": "S200",
+    "answer": "globalization",
+    "topic": "Brand and technology strategy",
+    "hint": "Expanding an organization's activities and perspective across countries."
+  },
+  {
+    "id": "S201",
+    "answer": "internationalization",
+    "topic": "Brand and technology strategy",
+    "hint": "Designing a product so it can be adapted for multiple languages and regions."
+  },
+  {
+    "id": "S202",
+    "answer": "translation",
+    "topic": "Brand and technology strategy",
+    "hint": "Expressing written or spoken meaning in another language."
+  },
+  {
+    "id": "S203",
+    "answer": "transcreation",
+    "topic": "Brand and technology strategy",
+    "hint": "Reworking a message creatively so its intent fits another culture."
+  },
+  {
+    "id": "S204",
+    "answer": "communication",
+    "topic": "Brand and technology strategy",
+    "hint": "Sharing meaning and information between people or systems."
+  },
+  {
+    "id": "S205",
+    "answer": "conversation",
+    "topic": "Brand and technology strategy",
+    "hint": "An exchange in which participants respond to one another."
+  },
+  {
+    "id": "S206",
+    "answer": "dialogue",
+    "topic": "Brand and technology strategy",
+    "hint": "A two-way exchange intended to develop shared understanding."
+  },
+  {
+    "id": "I001",
+    "answer": "pilot",
+    "topic": "Technology implementation",
+    "hint": "A small trial used to learn before a wider launch."
+  },
+  {
+    "id": "I002",
+    "answer": "roadmap",
+    "topic": "Technology implementation",
+    "hint": "A high-level view of planned direction, priorities, and stages."
+  },
+  {
+    "id": "I003",
+    "answer": "scope",
+    "topic": "Technology implementation",
+    "hint": "The boundary of what a project includes and excludes."
+  },
+  {
+    "id": "I004",
+    "answer": "milestone",
+    "topic": "Technology implementation",
+    "hint": "A significant checkpoint marking progress in a project."
+  },
+  {
+    "id": "I005",
+    "answer": "dependency",
+    "topic": "Technology implementation",
+    "hint": "Something a task relies on before it can proceed."
+  },
+  {
+    "id": "I006",
+    "answer": "migration",
+    "topic": "Technology implementation",
+    "hint": "Moving data or services from one system or environment to another."
+  },
+  {
+    "id": "I007",
+    "answer": "integration",
+    "topic": "Technology implementation",
+    "hint": "Connecting separate systems so they can work together."
+  },
+  {
+    "id": "I008",
+    "answer": "adoption",
+    "topic": "Technology implementation",
+    "hint": "People beginning to use a new tool as part of their work."
+  },
+  {
+    "id": "I009",
+    "answer": "rollout",
+    "topic": "Technology implementation",
+    "hint": "Introducing a new system to its intended users, often in stages."
+  },
+  {
+    "id": "I010",
+    "answer": "feedback",
+    "topic": "Technology implementation",
+    "hint": "Information from users or results that helps guide improvements."
+  },
+  {
+    "id": "I011",
+    "answer": "iteration",
+    "topic": "Technology implementation",
+    "hint": "One cycle of building, learning, and improving."
+  },
+  {
+    "id": "I012",
+    "answer": "testing",
+    "topic": "Technology implementation",
+    "hint": "Checking behavior against expectations to uncover problems."
+  },
+  {
+    "id": "I013",
+    "answer": "deployment",
+    "topic": "Technology implementation",
+    "hint": "Placing a software version into an environment where it can run."
+  },
+  {
+    "id": "I014",
+    "answer": "maintenance",
+    "topic": "Technology implementation",
+    "hint": "Ongoing work to keep a system useful and functioning over time."
+  },
+  {
+    "id": "I015",
+    "answer": "implementation",
+    "topic": "Technology implementation",
+    "hint": "Putting an agreed plan or design into working use."
+  },
+  {
+    "id": "I016",
+    "answer": "planning",
+    "topic": "Technology implementation",
+    "hint": "Deciding in advance what to do and how to do it."
+  },
+  {
+    "id": "I017",
+    "answer": "scheduling",
+    "topic": "Technology implementation",
+    "hint": "Assigning activities to times or ordered work periods."
+  },
+  {
+    "id": "I018",
+    "answer": "sequencing",
+    "topic": "Technology implementation",
+    "hint": "Arranging tasks in the order they should happen."
+  },
+  {
+    "id": "I019",
+    "answer": "estimation",
+    "topic": "Technology implementation",
+    "hint": "Approximating the effort, duration, or resources an activity will need."
+  },
+  {
+    "id": "I020",
+    "answer": "forecasting",
+    "topic": "Technology implementation",
+    "hint": "Using available information to anticipate future conditions."
+  },
+  {
+    "id": "I021",
+    "answer": "budgeting",
+    "topic": "Technology implementation",
+    "hint": "Planning how available funds will be allocated and spent."
+  },
+  {
+    "id": "I022",
+    "answer": "resourcing",
+    "topic": "Technology implementation",
+    "hint": "Providing the people, tools, and funds needed for work."
+  },
+  {
+    "id": "I023",
+    "answer": "staffing",
+    "topic": "Technology implementation",
+    "hint": "Assigning people to the roles needed for an activity."
+  },
+  {
+    "id": "I024",
+    "answer": "onboarding",
+    "topic": "Technology implementation",
+    "hint": "Helping new people or users get started successfully."
+  },
+  {
+    "id": "I025",
+    "answer": "offboarding",
+    "topic": "Technology implementation",
+    "hint": "Managing someone's departure and removing access they no longer need."
+  },
+  {
+    "id": "I026",
+    "answer": "handover",
+    "topic": "Technology implementation",
+    "hint": "Transferring knowledge and responsibility to another person or team."
+  },
+  {
+    "id": "I027",
+    "answer": "transition",
+    "topic": "Technology implementation",
+    "hint": "Moving from an existing way of working to a new one."
+  },
+  {
+    "id": "I028",
+    "answer": "delivery",
+    "topic": "Technology implementation",
+    "hint": "Providing a completed outcome or capability to its intended recipients."
+  },
+  {
+    "id": "I029",
+    "answer": "execution",
+    "topic": "Technology implementation",
+    "hint": "Carrying out the actions required by a plan."
+  },
+  {
+    "id": "I030",
+    "answer": "reproducibility",
+    "topic": "Technology implementation",
+    "hint": "The ability to obtain consistent results by following documented conditions."
+  },
+  {
+    "id": "I031",
+    "answer": "operations",
+    "topic": "Technology implementation",
+    "hint": "The ongoing activities that keep a service running."
+  },
+  {
+    "id": "I032",
+    "answer": "workflow",
+    "topic": "Technology implementation",
+    "hint": "The ordered path work follows between tasks and people."
+  },
+  {
+    "id": "I033",
+    "answer": "process",
+    "topic": "Technology implementation",
+    "hint": "A related set of activities that produces an intended result."
+  },
+  {
+    "id": "I034",
+    "answer": "task",
+    "topic": "Technology implementation",
+    "hint": "A defined piece of work to be completed."
+  },
+  {
+    "id": "I035",
+    "answer": "activity",
+    "topic": "Technology implementation",
+    "hint": "An action or group of actions within a larger effort."
+  },
+  {
+    "id": "I036",
+    "answer": "action",
+    "topic": "Technology implementation",
+    "hint": "A step taken to produce a result."
+  },
+  {
+    "id": "I037",
+    "answer": "assignment",
+    "topic": "Technology implementation",
+    "hint": "Work allocated to a particular person or group."
+  },
+  {
+    "id": "I038",
+    "answer": "backlog",
+    "topic": "Technology implementation",
+    "hint": "An ordered collection of work that has not yet been completed."
+  },
+  {
+    "id": "I039",
+    "answer": "sprint",
+    "topic": "Technology implementation",
+    "hint": "A short, fixed work period used by some development teams."
+  },
+  {
+    "id": "I040",
+    "answer": "increment",
+    "topic": "Technology implementation",
+    "hint": "An additional usable portion of a product built through development."
+  },
+  {
+    "id": "I041",
+    "answer": "release",
+    "topic": "Technology implementation",
+    "hint": "A version of a product made available for use."
+  },
+  {
+    "id": "I042",
+    "answer": "version",
+    "topic": "Technology implementation",
+    "hint": "An identified state or edition of a software product."
+  },
+  {
+    "id": "I043",
+    "answer": "revision",
+    "topic": "Technology implementation",
+    "hint": "A change made to an existing document or artifact."
+  },
+  {
+    "id": "I044",
+    "answer": "update",
+    "topic": "Technology implementation",
+    "hint": "A change that brings software or information to a newer state."
+  },
+  {
+    "id": "I045",
+    "answer": "upgrade",
+    "topic": "Technology implementation",
+    "hint": "Moving to a newer or more capable version of a system."
+  },
+  {
+    "id": "I046",
+    "answer": "downgrade",
+    "topic": "Technology implementation",
+    "hint": "Moving to an earlier or less capable version."
+  },
+  {
+    "id": "I047",
+    "answer": "rollback",
+    "topic": "Technology implementation",
+    "hint": "Returning a system to a previous known state."
+  },
+  {
+    "id": "I048",
+    "answer": "fallback",
+    "topic": "Technology implementation",
+    "hint": "An alternative used when the preferred approach cannot work."
+  },
+  {
+    "id": "I049",
+    "answer": "cutover",
+    "topic": "Technology implementation",
+    "hint": "The point at which use switches from an old system to a new one."
+  },
+  {
+    "id": "I050",
+    "answer": "launch",
+    "topic": "Technology implementation",
+    "hint": "Making a product or service available to its intended audience."
+  },
+  {
+    "id": "I051",
+    "answer": "kickoff",
+    "topic": "Technology implementation",
+    "hint": "The initial meeting or event that starts a project."
+  },
+  {
+    "id": "I052",
+    "answer": "closure",
+    "topic": "Technology implementation",
+    "hint": "Formally finishing a project and confirming its remaining obligations."
+  },
+  {
+    "id": "I053",
+    "answer": "completion",
+    "topic": "Technology implementation",
+    "hint": "The point at which defined work has been finished."
+  },
+  {
+    "id": "I054",
+    "answer": "acceptance",
+    "topic": "Technology implementation",
+    "hint": "Confirmation that delivered work meets agreed criteria."
+  },
+  {
+    "id": "I055",
+    "answer": "signoff",
+    "topic": "Technology implementation",
+    "hint": "Formal approval that work can proceed or be considered complete."
+  },
+  {
+    "id": "I056",
+    "answer": "preparation",
+    "topic": "Technology implementation",
+    "hint": "Work done to make a later activity possible or easier."
+  },
+  {
+    "id": "I057",
+    "answer": "configuration",
+    "topic": "Technology implementation",
+    "hint": "The settings that determine how a system operates."
+  },
+  {
+    "id": "I058",
+    "answer": "setup",
+    "topic": "Technology implementation",
+    "hint": "The initial arrangement needed before a tool can be used."
+  },
+  {
+    "id": "I059",
+    "answer": "installation",
+    "topic": "Technology implementation",
+    "hint": "Putting software onto a device so it can run."
+  },
+  {
+    "id": "I060",
+    "answer": "provisioning",
+    "topic": "Technology implementation",
+    "hint": "Creating and allocating resources needed for a service."
+  },
+  {
+    "id": "I061",
+    "answer": "deprovisioning",
+    "topic": "Technology implementation",
+    "hint": "Removing resources or access that are no longer required."
+  },
+  {
+    "id": "I062",
+    "answer": "orchestration",
+    "topic": "Technology implementation",
+    "hint": "Coordinating multiple automated tasks or services into a larger workflow."
+  },
+  {
+    "id": "I063",
+    "answer": "automation",
+    "topic": "Technology implementation",
+    "hint": "Having a system perform repeatable work with less manual intervention."
+  },
+  {
+    "id": "I064",
+    "answer": "scripting",
+    "topic": "Technology implementation",
+    "hint": "Writing instructions that automate tasks in a computing environment."
+  },
+  {
+    "id": "I065",
+    "answer": "programming",
+    "topic": "Technology implementation",
+    "hint": "Creating instructions that tell a computer how to perform tasks."
+  },
+  {
+    "id": "I066",
+    "answer": "coding",
+    "topic": "Technology implementation",
+    "hint": "Writing instructions in a language a computer can execute or interpret."
+  },
+  {
+    "id": "I067",
+    "answer": "development",
+    "topic": "Technology implementation",
+    "hint": "The work of creating and improving a software product."
+  },
+  {
+    "id": "I068",
+    "answer": "engineering",
+    "topic": "Technology implementation",
+    "hint": "Applying systematic design and problem solving to build reliable systems."
+  },
+  {
+    "id": "I069",
+    "answer": "construction",
+    "topic": "Technology implementation",
+    "hint": "Building a system from its planned parts."
+  },
+  {
+    "id": "I070",
+    "answer": "assembly",
+    "topic": "Technology implementation",
+    "hint": "Bringing components together into a functioning whole."
+  },
+  {
+    "id": "I071",
+    "answer": "packaging",
+    "topic": "Technology implementation",
+    "hint": "Preparing software and its related files for distribution or installation."
+  },
+  {
+    "id": "I072",
+    "answer": "distribution",
+    "topic": "Technology implementation",
+    "hint": "Delivering software or content to intended destinations."
+  },
+  {
+    "id": "I073",
+    "answer": "compilation",
+    "topic": "Technology implementation",
+    "hint": "Translating source code into another executable or lower-level form."
+  },
+  {
+    "id": "I074",
+    "answer": "transpilation",
+    "topic": "Technology implementation",
+    "hint": "Translating source code into another source language or language version."
+  },
+  {
+    "id": "I075",
+    "answer": "runtime",
+    "topic": "Technology implementation",
+    "hint": "The period or environment in which a program executes."
+  },
+  {
+    "id": "I076",
+    "answer": "environment",
+    "topic": "Technology implementation",
+    "hint": "The surrounding tools, settings, and resources in which software operates."
+  },
+  {
+    "id": "I077",
+    "answer": "sandbox",
+    "topic": "Technology implementation",
+    "hint": "An isolated environment used to limit effects while trying software."
+  },
+  {
+    "id": "I078",
+    "answer": "staging",
+    "topic": "Technology implementation",
+    "hint": "An environment used to check changes before they reach live users."
+  },
+  {
+    "id": "I079",
+    "answer": "production",
+    "topic": "Technology implementation",
+    "hint": "The live environment that serves actual users."
+  },
+  {
+    "id": "I080",
+    "answer": "preview",
+    "topic": "Technology implementation",
+    "hint": "An early view of a change before its final release."
+  },
+  {
+    "id": "I081",
+    "answer": "prototype",
+    "topic": "Technology implementation",
+    "hint": "An early model used to explore or test an idea."
+  },
+  {
+    "id": "I082",
+    "answer": "mockup",
+    "topic": "Technology implementation",
+    "hint": "A visual representation showing how a proposed interface could look."
+  },
+  {
+    "id": "I083",
+    "answer": "wireframe",
+    "topic": "Technology implementation",
+    "hint": "A simplified layout showing content placement and interface structure."
+  },
+  {
+    "id": "I084",
+    "answer": "blueprint",
+    "topic": "Technology implementation",
+    "hint": "A detailed plan used to guide building a system."
+  },
+  {
+    "id": "I085",
+    "answer": "specification",
+    "topic": "Technology implementation",
+    "hint": "A detailed description of required behavior or characteristics."
+  },
+  {
+    "id": "I086",
+    "answer": "constraint",
+    "topic": "Technology implementation",
+    "hint": "A boundary that limits the available design or implementation choices."
+  },
+  {
+    "id": "I087",
+    "answer": "assumption",
+    "topic": "Technology implementation",
+    "hint": "Something treated as true while making a plan."
+  },
+  {
+    "id": "I088",
+    "answer": "prerequisite",
+    "topic": "Technology implementation",
+    "hint": "Something that must be in place before another activity can begin."
+  },
+  {
+    "id": "I089",
+    "answer": "deliverable",
+    "topic": "Technology implementation",
+    "hint": "An agreed output that a project is expected to provide."
+  },
+  {
+    "id": "I090",
+    "answer": "artifact",
+    "topic": "Technology implementation",
+    "hint": "A concrete item produced during development, such as a document or build."
+  },
+  {
+    "id": "I091",
+    "answer": "component",
+    "topic": "Technology implementation",
+    "hint": "A distinct part of a larger system."
+  },
+  {
+    "id": "I092",
+    "answer": "module",
+    "topic": "Technology implementation",
+    "hint": "A self-contained unit of code with a defined purpose."
+  },
+  {
+    "id": "I093",
+    "answer": "package",
+    "topic": "Technology implementation",
+    "hint": "A distributable collection of code and related resources."
+  },
+  {
+    "id": "I094",
+    "answer": "library",
+    "topic": "Technology implementation",
+    "hint": "Reusable code that a program calls to perform particular tasks."
+  },
+  {
+    "id": "I095",
+    "answer": "toolkit",
+    "topic": "Technology implementation",
+    "hint": "A collection of utilities used to build or manage something."
+  },
+  {
+    "id": "I096",
+    "answer": "tool",
+    "topic": "Technology implementation",
+    "hint": "A resource used to perform a particular task."
+  },
+  {
+    "id": "I097",
+    "answer": "application",
+    "topic": "Technology implementation",
+    "hint": "Software designed to help users perform related tasks."
+  },
+  {
+    "id": "I098",
+    "answer": "system",
+    "topic": "Technology implementation",
+    "hint": "Connected parts that work together toward a purpose."
+  },
+  {
+    "id": "I099",
+    "answer": "service",
+    "topic": "Technology implementation",
+    "hint": "A capability made available to users or other software."
+  },
+  {
+    "id": "I100",
+    "answer": "microservice",
+    "topic": "Technology implementation",
+    "hint": "A small, independently deployable service within a larger application."
+  },
+  {
+    "id": "I101",
+    "answer": "monolith",
+    "topic": "Technology implementation",
+    "hint": "An application built and deployed as a closely connected whole."
+  },
+  {
+    "id": "I102",
+    "answer": "architecture",
+    "topic": "Technology implementation",
+    "hint": "The high-level structure and design decisions of a system."
+  },
+  {
+    "id": "I103",
+    "answer": "topology",
+    "topic": "Technology implementation",
+    "hint": "The arrangement of connected nodes and links."
+  },
+  {
+    "id": "I104",
+    "answer": "infrastructure",
+    "topic": "Technology implementation",
+    "hint": "The underlying computing resources that support applications and services."
+  },
+  {
+    "id": "I105",
+    "answer": "server",
+    "topic": "Technology implementation",
+    "hint": "A computer or program that provides capabilities to other programs."
+  },
+  {
+    "id": "I106",
+    "answer": "client",
+    "topic": "Technology implementation",
+    "hint": "A program or device that requests capabilities from another system."
+  },
+  {
+    "id": "I107",
+    "answer": "browser",
+    "topic": "Technology implementation",
+    "hint": "Software used to retrieve and display web content."
+  },
+  {
+    "id": "I108",
+    "answer": "device",
+    "topic": "Technology implementation",
+    "hint": "A piece of equipment that processes, stores, or exchanges information."
+  },
+  {
+    "id": "I109",
+    "answer": "desktop",
+    "topic": "Technology implementation",
+    "hint": "A computer intended primarily for use at a fixed workstation."
+  },
+  {
+    "id": "I110",
+    "answer": "laptop",
+    "topic": "Technology implementation",
+    "hint": "A portable computer with an integrated screen and keyboard."
+  },
+  {
+    "id": "I111",
+    "answer": "tablet",
+    "topic": "Technology implementation",
+    "hint": "A portable computer primarily operated through its touch screen."
+  },
+  {
+    "id": "I112",
+    "answer": "mobile",
+    "topic": "Technology implementation",
+    "hint": "Designed for use on portable devices and changing locations."
+  },
+  {
+    "id": "I113",
+    "answer": "workstation",
+    "topic": "Technology implementation",
+    "hint": "A computer used as an individual's work environment."
+  },
+  {
+    "id": "I114",
+    "answer": "terminal",
+    "topic": "Technology implementation",
+    "hint": "An interface used to enter text commands and view their output."
+  },
+  {
+    "id": "I115",
+    "answer": "console",
+    "topic": "Technology implementation",
+    "hint": "An interface for controlling a system or viewing diagnostic output."
+  },
+  {
+    "id": "I116",
+    "answer": "dashboard",
+    "topic": "Technology implementation",
+    "hint": "A consolidated view of important status information and measures."
+  },
+  {
+    "id": "I117",
+    "answer": "interface",
+    "topic": "Technology implementation",
+    "hint": "The boundary through which people or systems interact."
+  },
+  {
+    "id": "I118",
+    "answer": "frontend",
+    "topic": "Technology implementation",
+    "hint": "The part of an application users directly see and interact with."
+  },
+  {
+    "id": "I119",
+    "answer": "backend",
+    "topic": "Technology implementation",
+    "hint": "The server-side logic and resources supporting an application."
+  },
+  {
+    "id": "I120",
+    "answer": "middleware",
+    "topic": "Technology implementation",
+    "hint": "Software that connects or supports interactions between other components."
+  },
+  {
+    "id": "I121",
+    "answer": "database",
+    "topic": "Technology implementation",
+    "hint": "An organized collection of information managed for retrieval and use."
+  },
+  {
+    "id": "I122",
+    "answer": "datastore",
+    "topic": "Technology implementation",
+    "hint": "A repository used to persist information."
+  },
+  {
+    "id": "I123",
+    "answer": "repository",
+    "topic": "Technology implementation",
+    "hint": "A managed location for storing and tracking project files."
+  },
+  {
+    "id": "I124",
+    "answer": "registry",
+    "topic": "Technology implementation",
+    "hint": "A catalog used to locate or distribute identified resources."
+  },
+  {
+    "id": "I125",
+    "answer": "directory",
+    "topic": "Technology implementation",
+    "hint": "An organized container or listing used to locate resources."
+  },
+  {
+    "id": "I126",
+    "answer": "folder",
+    "topic": "Technology implementation",
+    "hint": "A named container used to organize files."
+  },
+  {
+    "id": "I127",
+    "answer": "file",
+    "topic": "Technology implementation",
+    "hint": "A named unit of stored information."
+  },
+  {
+    "id": "I128",
+    "answer": "document",
+    "topic": "Technology implementation",
+    "hint": "A recorded body of information intended to be read or processed."
+  },
+  {
+    "id": "I129",
+    "answer": "schema",
+    "topic": "Technology implementation",
+    "hint": "A description of how structured information is organized."
+  },
+  {
+    "id": "I130",
+    "answer": "table",
+    "topic": "Technology implementation",
+    "hint": "Data organized into rows and columns."
+  },
+  {
+    "id": "I131",
+    "answer": "column",
+    "topic": "Technology implementation",
+    "hint": "A vertical set of values for one attribute in a table."
+  },
+  {
+    "id": "I132",
+    "answer": "row",
+    "topic": "Technology implementation",
+    "hint": "A horizontal collection of values representing one table entry."
+  },
+  {
+    "id": "I133",
+    "answer": "field",
+    "topic": "Technology implementation",
+    "hint": "A named place for a particular value in structured data."
+  },
+  {
+    "id": "I134",
+    "answer": "entity",
+    "topic": "Technology implementation",
+    "hint": "A distinct thing represented within a data model."
+  },
+  {
+    "id": "I135",
+    "answer": "attribute",
+    "topic": "Technology implementation",
+    "hint": "A characteristic used to describe an entity."
+  },
+  {
+    "id": "I136",
+    "answer": "relation",
+    "topic": "Technology implementation",
+    "hint": "A formal association or table-like structure in a data model."
+  },
+  {
+    "id": "I137",
+    "answer": "mapping",
+    "topic": "Technology implementation",
+    "hint": "A defined correspondence between two representations or sets of values."
+  },
+  {
+    "id": "I138",
+    "answer": "index",
+    "topic": "Technology implementation",
+    "hint": "A structure that helps locate information more quickly."
+  },
+  {
+    "id": "I139",
+    "answer": "query",
+    "topic": "Technology implementation",
+    "hint": "A request to retrieve or manipulate information in a data system."
+  },
+  {
+    "id": "I140",
+    "answer": "transaction",
+    "topic": "Technology implementation",
+    "hint": "A group of data operations treated as one unit of work."
+  },
+  {
+    "id": "I141",
+    "answer": "cursor",
+    "topic": "Technology implementation",
+    "hint": "A mechanism for progressing through a sequence of query results."
+  },
+  {
+    "id": "I142",
+    "answer": "view",
+    "topic": "Technology implementation",
+    "hint": "A stored query presented like a table in a database."
+  },
+  {
+    "id": "I143",
+    "answer": "trigger",
+    "topic": "Technology implementation",
+    "hint": "An action automatically run in response to a specified database event."
+  },
+  {
+    "id": "I144",
+    "answer": "function",
+    "topic": "Technology implementation",
+    "hint": "A named or reusable unit of code that performs a task."
+  },
+  {
+    "id": "I145",
+    "answer": "method",
+    "topic": "Technology implementation",
+    "hint": "A callable behavior associated with an object."
+  },
+  {
+    "id": "I146",
+    "answer": "parameter",
+    "topic": "Technology implementation",
+    "hint": "A named input defined in a function's declaration."
+  },
+  {
+    "id": "I147",
+    "answer": "argument",
+    "topic": "Technology implementation",
+    "hint": "A value passed when calling a function."
+  },
+  {
+    "id": "I148",
+    "answer": "variable",
+    "topic": "Technology implementation",
+    "hint": "A named reference used to access a value in a program."
+  },
+  {
+    "id": "I149",
+    "answer": "constant",
+    "topic": "Technology implementation",
+    "hint": "A binding that cannot be assigned a different value after initialization."
+  },
+  {
+    "id": "I150",
+    "answer": "expression",
+    "topic": "Technology implementation",
+    "hint": "Code that evaluates to a value."
+  },
+  {
+    "id": "I151",
+    "answer": "statement",
+    "topic": "Technology implementation",
+    "hint": "An instruction or declaration within a program."
+  },
+  {
+    "id": "I152",
+    "answer": "operator",
+    "topic": "Technology implementation",
+    "hint": "A symbol or keyword that performs an operation on values."
+  },
+  {
+    "id": "I153",
+    "answer": "operand",
+    "topic": "Technology implementation",
+    "hint": "A value on which an operation acts."
+  },
+  {
+    "id": "I154",
+    "answer": "branch",
+    "topic": "Technology implementation",
+    "hint": "A path through code selected by a condition."
+  },
+  {
+    "id": "I155",
+    "answer": "loop",
+    "topic": "Technology implementation",
+    "hint": "A structure that repeats instructions."
+  },
+  {
+    "id": "I156",
+    "answer": "recursion",
+    "topic": "Technology implementation",
+    "hint": "Solving a problem by having a function call itself on smaller cases."
+  },
+  {
+    "id": "I157",
+    "answer": "callback",
+    "topic": "Technology implementation",
+    "hint": "A function supplied to other code for it to invoke."
+  },
+  {
+    "id": "I158",
+    "answer": "event",
+    "topic": "Technology implementation",
+    "hint": "A signal that something happened, such as a button being clicked."
+  },
+  {
+    "id": "I159",
+    "answer": "listener",
+    "topic": "Technology implementation",
+    "hint": "Code registered to respond when a particular event occurs."
+  },
+  {
+    "id": "I160",
+    "answer": "handler",
+    "topic": "Technology implementation",
+    "hint": "A function that processes a particular event or condition."
+  },
+  {
+    "id": "I161",
+    "answer": "asynchronous",
+    "topic": "Technology implementation",
+    "hint": "Describing work whose completion can be handled separately from its start."
+  },
+  {
+    "id": "I162",
+    "answer": "concurrency",
+    "topic": "Technology implementation",
+    "hint": "Making progress on multiple tasks during overlapping periods."
+  },
+  {
+    "id": "I163",
+    "answer": "parallelism",
+    "topic": "Technology implementation",
+    "hint": "Executing multiple tasks at the same time."
+  },
+  {
+    "id": "I164",
+    "answer": "synchronization",
+    "topic": "Technology implementation",
+    "hint": "Coordinating tasks so shared information or timing stays consistent."
+  },
+  {
+    "id": "I165",
+    "answer": "thread",
+    "topic": "Technology implementation",
+    "hint": "An execution path scheduled within a process."
+  },
+  {
+    "id": "I166",
+    "answer": "queue",
+    "topic": "Technology implementation",
+    "hint": "A collection commonly processed in the order items arrive."
+  },
+  {
+    "id": "I167",
+    "answer": "stack",
+    "topic": "Technology implementation",
+    "hint": "A collection commonly processed with the most recent item first."
+  },
+  {
+    "id": "I168",
+    "answer": "heap",
+    "topic": "Technology implementation",
+    "hint": "A memory area used for dynamically allocated objects."
+  },
+  {
+    "id": "I169",
+    "answer": "buffer",
+    "topic": "Technology implementation",
+    "hint": "Temporary storage used while data is transferred or processed."
+  },
+  {
+    "id": "I170",
+    "answer": "cache",
+    "topic": "Technology implementation",
+    "hint": "Stored results kept to make later access faster."
+  },
+  {
+    "id": "I171",
+    "answer": "memory",
+    "topic": "Technology implementation",
+    "hint": "Working storage used by a computer while processing information."
+  },
+  {
+    "id": "I172",
+    "answer": "storage",
+    "topic": "Technology implementation",
+    "hint": "Resources used to keep information for later use."
+  },
+  {
+    "id": "I173",
+    "answer": "disk",
+    "topic": "Technology implementation",
+    "hint": "A storage device or volume used to retain files and data."
+  },
+  {
+    "id": "I174",
+    "answer": "volume",
+    "topic": "Technology implementation",
+    "hint": "A logical storage unit that can hold a file system."
+  },
+  {
+    "id": "I175",
+    "answer": "partition",
+    "topic": "Technology implementation",
+    "hint": "A defined subdivision of a storage device or data set."
+  },
+  {
+    "id": "I176",
+    "answer": "cluster",
+    "topic": "Technology implementation",
+    "hint": "A group of computers or nodes working together."
+  },
+  {
+    "id": "I177",
+    "answer": "node",
+    "topic": "Technology implementation",
+    "hint": "An individual participant or computing unit in a larger network."
+  },
+  {
+    "id": "I178",
+    "answer": "container",
+    "topic": "Technology implementation",
+    "hint": "An isolated software environment sharing the host operating system's kernel."
+  },
+  {
+    "id": "I179",
+    "answer": "virtualization",
+    "topic": "Technology implementation",
+    "hint": "Creating software-based versions of computing resources."
+  },
+  {
+    "id": "I180",
+    "answer": "hypervisor",
+    "topic": "Technology implementation",
+    "hint": "Software that creates and manages virtual machines."
+  },
+  {
+    "id": "I181",
+    "answer": "endpoint",
+    "topic": "Technology implementation",
+    "hint": "An addressable destination where a service can be accessed."
+  },
+  {
+    "id": "I182",
+    "answer": "route",
+    "topic": "Technology implementation",
+    "hint": "A defined path or rule directing a request to its destination."
+  },
+  {
+    "id": "I183",
+    "answer": "routing",
+    "topic": "Technology implementation",
+    "hint": "Choosing where network traffic or application requests should go."
+  },
+  {
+    "id": "I184",
+    "answer": "gateway",
+    "topic": "Technology implementation",
+    "hint": "An entry point connecting different networks or services."
+  },
+  {
+    "id": "I185",
+    "answer": "proxy",
+    "topic": "Technology implementation",
+    "hint": "An intermediary that forwards requests on behalf of another party."
+  },
+  {
+    "id": "I186",
+    "answer": "observability",
+    "topic": "Technology implementation",
+    "hint": "Understanding a system's internal condition through the signals it produces."
+  },
+  {
+    "id": "I187",
+    "answer": "instrumentation",
+    "topic": "Technology implementation",
+    "hint": "Adding mechanisms that emit useful measurements and diagnostic signals."
+  },
+  {
+    "id": "I188",
+    "answer": "bandwidth",
+    "topic": "Technology implementation",
+    "hint": "The data-carrying capacity of a communication connection."
+  },
+  {
+    "id": "I189",
+    "answer": "throughput",
+    "topic": "Technology implementation",
+    "hint": "The amount of work or data actually processed in a given time."
+  },
+  {
+    "id": "I190",
+    "answer": "latency",
+    "topic": "Technology implementation",
+    "hint": "The delay before a request produces a response."
+  },
+  {
+    "id": "I191",
+    "answer": "jitter",
+    "topic": "Technology implementation",
+    "hint": "Variation in the timing of network delivery."
+  },
+  {
+    "id": "I192",
+    "answer": "timeout",
+    "topic": "Technology implementation",
+    "hint": "A limit on how long an operation waits before stopping."
+  },
+  {
+    "id": "I193",
+    "answer": "retry",
+    "topic": "Technology implementation",
+    "hint": "Attempting an operation again after an unsuccessful attempt."
+  },
+  {
+    "id": "I194",
+    "answer": "backoff",
+    "topic": "Technology implementation",
+    "hint": "Increasing the waiting time between repeated attempts."
+  },
+  {
+    "id": "I195",
+    "answer": "polling",
+    "topic": "Technology implementation",
+    "hint": "Repeatedly checking for a change or new result."
+  },
+  {
+    "id": "I196",
+    "answer": "streaming",
+    "topic": "Technology implementation",
+    "hint": "Processing or delivering information progressively as it becomes available."
+  },
+  {
+    "id": "I197",
+    "answer": "batching",
+    "topic": "Technology implementation",
+    "hint": "Grouping multiple items so they can be processed together."
+  },
+  {
+    "id": "I198",
+    "answer": "pagination",
+    "topic": "Technology implementation",
+    "hint": "Dividing a collection of results into smaller pages."
+  },
+  {
+    "id": "I199",
+    "answer": "filtering",
+    "topic": "Technology implementation",
+    "hint": "Selecting only items that meet specified conditions."
+  },
+  {
+    "id": "I200",
+    "answer": "sorting",
+    "topic": "Technology implementation",
+    "hint": "Arranging items according to an ordering rule."
+  },
+  {
+    "id": "I201",
+    "answer": "grouping",
+    "topic": "Technology implementation",
+    "hint": "Collecting items that share selected characteristics."
+  },
+  {
+    "id": "I202",
+    "answer": "aggregation",
+    "topic": "Technology implementation",
+    "hint": "Combining multiple values into a summarized result."
+  },
+  {
+    "id": "I203",
+    "answer": "normalization",
+    "topic": "Technology implementation",
+    "hint": "Organizing relational data to reduce avoidable duplication and dependencies."
+  },
+  {
+    "id": "I204",
+    "answer": "denormalization",
+    "topic": "Technology implementation",
+    "hint": "Adding deliberate redundancy to a data model for particular access needs."
+  },
+  {
+    "id": "I205",
+    "answer": "serialization",
+    "topic": "Technology implementation",
+    "hint": "Converting structured data into a form suitable for storage or transfer."
+  },
+  {
+    "id": "I206",
+    "answer": "deserialization",
+    "topic": "Technology implementation",
+    "hint": "Rebuilding structured data from its stored or transmitted representation."
+  },
+  {
+    "id": "C001",
+    "answer": "phishing",
+    "topic": "Cybersecurity",
+    "hint": "A deceptive message that tries to trick someone into sharing information or taking an unsafe action."
+  },
+  {
+    "id": "C002",
+    "answer": "malware",
+    "topic": "Cybersecurity",
+    "hint": "Software designed to damage, disrupt, or gain unauthorized access."
+  },
+  {
+    "id": "C003",
+    "answer": "ransomware",
+    "topic": "Cybersecurity",
+    "hint": "Malicious software that demands payment after blocking access or threatening data exposure."
+  },
+  {
+    "id": "C004",
+    "answer": "encryption",
+    "topic": "Cybersecurity",
+    "hint": "Transforming readable data into a protected form using a key."
+  },
+  {
+    "id": "C005",
+    "answer": "authentication",
+    "topic": "Cybersecurity",
+    "hint": "Checking that a person or system is who it claims to be."
+  },
+  {
+    "id": "C006",
+    "answer": "password",
+    "topic": "Cybersecurity",
+    "hint": "A secret string entered as a credential when signing in."
+  },
+  {
+    "id": "C007",
+    "answer": "passphrase",
+    "topic": "Cybersecurity",
+    "hint": "A sign-in secret built from several words."
+  },
+  {
+    "id": "C008",
+    "answer": "firewall",
+    "topic": "Cybersecurity",
+    "hint": "A control that allows or blocks network traffic according to rules."
+  },
+  {
+    "id": "C009",
+    "answer": "patch",
+    "topic": "Cybersecurity",
+    "hint": "A software update that fixes a problem, sometimes a security flaw."
+  },
+  {
+    "id": "C010",
+    "answer": "backup",
+    "topic": "Cybersecurity",
+    "hint": "A separate copy kept so information can be restored after loss."
+  },
+  {
+    "id": "C011",
+    "answer": "vulnerability",
+    "topic": "Cybersecurity",
+    "hint": "A weakness that could be exploited to cause harm."
+  },
+  {
+    "id": "C012",
+    "answer": "threat",
+    "topic": "Cybersecurity",
+    "hint": "A potential cause of harm to a system or its information."
+  },
+  {
+    "id": "C013",
+    "answer": "incident",
+    "topic": "Cybersecurity",
+    "hint": "An event that compromises or threatens the security of systems or information."
+  },
+  {
+    "id": "C014",
+    "answer": "recovery",
+    "topic": "Cybersecurity",
+    "hint": "Restoring systems and operations after a disruption."
+  },
+  {
+    "id": "C015",
+    "answer": "security",
+    "topic": "Cybersecurity",
+    "hint": "Protecting systems and information against unacceptable harm."
+  },
+  {
+    "id": "C016",
+    "answer": "cybersecurity",
+    "topic": "Cybersecurity",
+    "hint": "Protecting digital systems, networks, and information from threats."
+  },
+  {
+    "id": "C017",
+    "answer": "hardening",
+    "topic": "Cybersecurity",
+    "hint": "Reducing a system's exposure by removing weaknesses and unnecessary features."
+  },
+  {
+    "id": "C018",
+    "answer": "cryptography",
+    "topic": "Cybersecurity",
+    "hint": "Methods for protecting information using mathematical transformations."
+  },
+  {
+    "id": "C019",
+    "answer": "cryptanalysis",
+    "topic": "Cybersecurity",
+    "hint": "Studying ways to defeat or evaluate cryptographic protection."
+  },
+  {
+    "id": "C020",
+    "answer": "cryptology",
+    "topic": "Cybersecurity",
+    "hint": "The broader field encompassing both creating and analyzing cryptographic systems."
+  },
+  {
+    "id": "C021",
+    "answer": "cipher",
+    "topic": "Cybersecurity",
+    "hint": "An algorithm that transforms information to conceal its meaning."
+  },
+  {
+    "id": "C022",
+    "answer": "plaintext",
+    "topic": "Cybersecurity",
+    "hint": "Information in its readable form before or after cryptographic protection."
+  },
+  {
+    "id": "C023",
+    "answer": "ciphertext",
+    "topic": "Cybersecurity",
+    "hint": "The protected output produced by an encryption algorithm."
+  },
+  {
+    "id": "C024",
+    "answer": "key",
+    "topic": "Cybersecurity",
+    "hint": "A value that controls a cryptographic operation."
+  },
+  {
+    "id": "C025",
+    "answer": "revocation",
+    "topic": "Cybersecurity",
+    "hint": "Withdrawing a credential's validity before it would otherwise expire."
+  },
+  {
+    "id": "C026",
+    "answer": "keyring",
+    "topic": "Cybersecurity",
+    "hint": "An organized collection of cryptographic keys."
+  },
+  {
+    "id": "C027",
+    "answer": "escrow",
+    "topic": "Cybersecurity",
+    "hint": "Keeping a sensitive asset with a trusted third party under agreed conditions."
+  },
+  {
+    "id": "C028",
+    "answer": "keychain",
+    "topic": "Cybersecurity",
+    "hint": "A protected facility used to store credentials and keys."
+  },
+  {
+    "id": "C029",
+    "answer": "secret",
+    "topic": "Cybersecurity",
+    "hint": "Information whose protection depends on keeping it from unauthorized parties."
+  },
+  {
+    "id": "C030",
+    "answer": "availability",
+    "topic": "Cybersecurity",
+    "hint": "Keeping information and services accessible when authorized users need them."
+  },
+  {
+    "id": "C031",
+    "answer": "nonrepudiation",
+    "topic": "Cybersecurity",
+    "hint": "Evidence that helps prevent a party from denying a recorded action."
+  },
+  {
+    "id": "C032",
+    "answer": "identification",
+    "topic": "Cybersecurity",
+    "hint": "Presenting an identity that can then be checked."
+  },
+  {
+    "id": "C033",
+    "answer": "credential",
+    "topic": "Cybersecurity",
+    "hint": "Evidence used to support a claimed identity or access right."
+  },
+  {
+    "id": "C034",
+    "answer": "token",
+    "topic": "Cybersecurity",
+    "hint": "A value or device used as evidence in an access process."
+  },
+  {
+    "id": "C035",
+    "answer": "certificate",
+    "topic": "Cybersecurity",
+    "hint": "An electronic document binding a public key to an identified subject."
+  },
+  {
+    "id": "C036",
+    "answer": "signature",
+    "topic": "Cybersecurity",
+    "hint": "A cryptographic mark used to check origin and detect changes."
+  },
+  {
+    "id": "C037",
+    "answer": "hash",
+    "topic": "Cybersecurity",
+    "hint": "A fixed-length result calculated from input data by a defined function."
+  },
+  {
+    "id": "C038",
+    "answer": "antimalware",
+    "topic": "Cybersecurity",
+    "hint": "Software that detects, blocks, or removes harmful programs."
+  },
+  {
+    "id": "C039",
+    "answer": "digest",
+    "topic": "Cybersecurity",
+    "hint": "A compact value summarizing data through a hash function."
+  },
+  {
+    "id": "C040",
+    "answer": "checksum",
+    "topic": "Cybersecurity",
+    "hint": "A calculated value used to help detect accidental changes to data."
+  },
+  {
+    "id": "C041",
+    "answer": "salt",
+    "topic": "Cybersecurity",
+    "hint": "A nonsecret value added to a password before deriving its stored hash."
+  },
+  {
+    "id": "C042",
+    "answer": "sanitization",
+    "topic": "Cybersecurity",
+    "hint": "Removing unwanted data or content so it can be handled more safely."
+  },
+  {
+    "id": "C043",
+    "answer": "pepper",
+    "topic": "Cybersecurity",
+    "hint": "A separately protected secret used to strengthen stored password processing."
+  },
+  {
+    "id": "C044",
+    "answer": "nonce",
+    "topic": "Cybersecurity",
+    "hint": "A value intended to be used only once in a particular context."
+  },
+  {
+    "id": "C045",
+    "answer": "entropy",
+    "topic": "Cybersecurity",
+    "hint": "A measure of uncertainty or unpredictability in possible values."
+  },
+  {
+    "id": "C046",
+    "answer": "randomness",
+    "topic": "Cybersecurity",
+    "hint": "Unpredictability that helps keep cryptographic values difficult to guess."
+  },
+  {
+    "id": "C047",
+    "answer": "passwordless",
+    "topic": "Cybersecurity",
+    "hint": "Signing in without using a conventional memorized secret string."
+  },
+  {
+    "id": "C048",
+    "answer": "obfuscation",
+    "topic": "Cybersecurity",
+    "hint": "Making information or code harder to understand without necessarily encrypting it."
+  },
+  {
+    "id": "C049",
+    "answer": "steganography",
+    "topic": "Cybersecurity",
+    "hint": "Hiding the presence of a message inside other material."
+  },
+  {
+    "id": "C050",
+    "answer": "watermarking",
+    "topic": "Cybersecurity",
+    "hint": "Embedding an identifying mark within content."
+  },
+  {
+    "id": "C051",
+    "answer": "fingerprint",
+    "topic": "Cybersecurity",
+    "hint": "A compact representation used to help identify data or a cryptographic key."
+  },
+  {
+    "id": "C052",
+    "answer": "forensics",
+    "topic": "Cybersecurity",
+    "hint": "Examining digital evidence to understand events and preserve findings."
+  },
+  {
+    "id": "C053",
+    "answer": "biometrics",
+    "topic": "Cybersecurity",
+    "hint": "Using measurable human characteristics to help verify identity."
+  },
+  {
+    "id": "C054",
+    "answer": "antivirus",
+    "topic": "Cybersecurity",
+    "hint": "Software designed to detect and respond to computer viruses and related threats."
+  },
+  {
+    "id": "C055",
+    "answer": "passkey",
+    "topic": "Cybersecurity",
+    "hint": "A cryptographic sign-in credential that avoids a shared password."
+  },
+  {
+    "id": "C056",
+    "answer": "iris",
+    "topic": "Cybersecurity",
+    "hint": "The patterned ring around the pupil that can be used in identity checks."
+  },
+  {
+    "id": "C057",
+    "answer": "retina",
+    "topic": "Cybersecurity",
+    "hint": "The light-sensitive tissue at the back of the eye used in some identity systems."
+  },
+  {
+    "id": "C058",
+    "answer": "voiceprint",
+    "topic": "Cybersecurity",
+    "hint": "A representation of vocal characteristics used in speaker verification."
+  },
+  {
+    "id": "C059",
+    "answer": "liveness",
+    "topic": "Cybersecurity",
+    "hint": "A check intended to distinguish a present person from a replay or imitation."
+  },
+  {
+    "id": "C060",
+    "answer": "enrollment",
+    "topic": "Cybersecurity",
+    "hint": "Registering a person and their credentials in an identity system."
+  },
+  {
+    "id": "C061",
+    "answer": "assertion",
+    "topic": "Cybersecurity",
+    "hint": "A statement about identity or access claims supplied to another system."
+  },
+  {
+    "id": "C062",
+    "answer": "challenge",
+    "topic": "Cybersecurity",
+    "hint": "A fresh request that an identity check requires someone to answer."
+  },
+  {
+    "id": "C063",
+    "answer": "response",
+    "topic": "Cybersecurity",
+    "hint": "The answer supplied to a verification request."
+  },
+  {
+    "id": "C064",
+    "answer": "session",
+    "topic": "Cybersecurity",
+    "hint": "A period of related interactions associated with a user or connection."
+  },
+  {
+    "id": "C065",
+    "answer": "cookie",
+    "topic": "Cybersecurity",
+    "hint": "A small browser-stored value often used to maintain website state."
+  },
+  {
+    "id": "C066",
+    "answer": "header",
+    "topic": "Cybersecurity",
+    "hint": "Metadata sent alongside a web request or response."
+  },
+  {
+    "id": "C067",
+    "answer": "request",
+    "topic": "Cybersecurity",
+    "hint": "A message asking another system to perform an action or return information."
+  },
+  {
+    "id": "C068",
+    "answer": "origin",
+    "topic": "Cybersecurity",
+    "hint": "A web address's scheme, host, and port considered together."
+  },
+  {
+    "id": "C069",
+    "answer": "referrer",
+    "topic": "Cybersecurity",
+    "hint": "Information indicating the page from which a web request originated."
+  },
+  {
+    "id": "C070",
+    "answer": "domain",
+    "topic": "Cybersecurity",
+    "hint": "A named area within the internet's addressing hierarchy."
+  },
+  {
+    "id": "C071",
+    "answer": "subdomain",
+    "topic": "Cybersecurity",
+    "hint": "A named subdivision beneath a larger internet address."
+  },
+  {
+    "id": "C072",
+    "answer": "hostname",
+    "topic": "Cybersecurity",
+    "hint": "The name used to identify a machine or service on a network."
+  },
+  {
+    "id": "C073",
+    "answer": "address",
+    "topic": "Cybersecurity",
+    "hint": "A value used to identify a network destination."
+  },
+  {
+    "id": "C074",
+    "answer": "port",
+    "topic": "Cybersecurity",
+    "hint": "A numbered communication endpoint associated with a service or process."
+  },
+  {
+    "id": "C075",
+    "answer": "socket",
+    "topic": "Cybersecurity",
+    "hint": "A software endpoint used to send or receive network data."
+  },
+  {
+    "id": "C076",
+    "answer": "packet",
+    "topic": "Cybersecurity",
+    "hint": "A unit of data sent across a network."
+  },
+  {
+    "id": "C077",
+    "answer": "frame",
+    "topic": "Cybersecurity",
+    "hint": "A link-layer unit of network data."
+  },
+  {
+    "id": "C078",
+    "answer": "datagram",
+    "topic": "Cybersecurity",
+    "hint": "A self-contained network message sent without requiring a dedicated connection."
+  },
+  {
+    "id": "C079",
+    "answer": "payload",
+    "topic": "Cybersecurity",
+    "hint": "The main data carried inside a message or malicious delivery."
+  },
+  {
+    "id": "C080",
+    "answer": "handshake",
+    "topic": "Cybersecurity",
+    "hint": "An initial exchange used to establish communication parameters."
+  },
+  {
+    "id": "C081",
+    "answer": "tunnel",
+    "topic": "Cybersecurity",
+    "hint": "A protected or encapsulated path carrying traffic through another network."
+  },
+  {
+    "id": "C082",
+    "answer": "tunneling",
+    "topic": "Cybersecurity",
+    "hint": "Carrying one communication protocol inside another."
+  },
+  {
+    "id": "C083",
+    "answer": "isolation",
+    "topic": "Cybersecurity",
+    "hint": "Separating resources to limit unintended interaction or access."
+  },
+  {
+    "id": "C084",
+    "answer": "sandboxing",
+    "topic": "Cybersecurity",
+    "hint": "Running software in a restricted environment to limit its effects."
+  },
+  {
+    "id": "C085",
+    "answer": "containment",
+    "topic": "Cybersecurity",
+    "hint": "Limiting the spread or impact of a security event."
+  },
+  {
+    "id": "C086",
+    "answer": "quarantine",
+    "topic": "Cybersecurity",
+    "hint": "Separating suspicious content or a device while it is assessed."
+  },
+  {
+    "id": "C087",
+    "answer": "allowlist",
+    "topic": "Cybersecurity",
+    "hint": "An explicit collection of items permitted to proceed."
+  },
+  {
+    "id": "C088",
+    "answer": "denylist",
+    "topic": "Cybersecurity",
+    "hint": "An explicit collection of items prohibited from proceeding."
+  },
+  {
+    "id": "C089",
+    "answer": "whitelist",
+    "topic": "Cybersecurity",
+    "hint": "A legacy term for a collection of explicitly permitted items."
+  },
+  {
+    "id": "C090",
+    "answer": "blacklist",
+    "topic": "Cybersecurity",
+    "hint": "A legacy term for a collection of explicitly prohibited items."
+  },
+  {
+    "id": "C091",
+    "answer": "safelist",
+    "topic": "Cybersecurity",
+    "hint": "Another name for a collection of items explicitly permitted by a rule."
+  },
+  {
+    "id": "C092",
+    "answer": "blocklist",
+    "topic": "Cybersecurity",
+    "hint": "Another name for a collection of items explicitly prohibited by a rule."
+  },
+  {
+    "id": "C093",
+    "answer": "distrust",
+    "topic": "Cybersecurity",
+    "hint": "An absence of confidence that a party or system should be relied on."
+  },
+  {
+    "id": "C094",
+    "answer": "perimeter",
+    "topic": "Cybersecurity",
+    "hint": "A boundary where an organization applies controls around its resources."
+  },
+  {
+    "id": "C095",
+    "answer": "microsegmentation",
+    "topic": "Cybersecurity",
+    "hint": "Dividing an environment into small zones with specific communication rules."
+  },
+  {
+    "id": "C096",
+    "answer": "privilege",
+    "topic": "Cybersecurity",
+    "hint": "An access right that permits a particular operation."
+  },
+  {
+    "id": "C097",
+    "answer": "permission",
+    "topic": "Cybersecurity",
+    "hint": "An assigned allowance to perform an action on a resource."
+  },
+  {
+    "id": "C098",
+    "answer": "role",
+    "topic": "Cybersecurity",
+    "hint": "A named set of responsibilities or access rights assigned to users."
+  },
+  {
+    "id": "C099",
+    "answer": "group",
+    "topic": "Cybersecurity",
+    "hint": "A collection of accounts managed together for access or administration."
+  },
+  {
+    "id": "C100",
+    "answer": "account",
+    "topic": "Cybersecurity",
+    "hint": "A system record representing a user or service identity."
+  },
+  {
+    "id": "C101",
+    "answer": "user",
+    "topic": "Cybersecurity",
+    "hint": "A person or entity that interacts with a system."
+  },
+  {
+    "id": "C102",
+    "answer": "superuser",
+    "topic": "Cybersecurity",
+    "hint": "An account with broad administrative powers."
+  },
+  {
+    "id": "C103",
+    "answer": "root",
+    "topic": "Cybersecurity",
+    "hint": "The traditionally privileged administrative account on Unix-like systems."
+  },
+  {
+    "id": "C104",
+    "answer": "sudo",
+    "topic": "Cybersecurity",
+    "hint": "A common utility for running commands with another user's permitted privileges."
+  },
+  {
+    "id": "C105",
+    "answer": "elevation",
+    "topic": "Cybersecurity",
+    "hint": "Obtaining a higher level of access than before."
+  },
+  {
+    "id": "C106",
+    "answer": "impersonation",
+    "topic": "Cybersecurity",
+    "hint": "Pretending to be another identity to gain trust or access."
+  },
+  {
+    "id": "C107",
+    "answer": "spoofing",
+    "topic": "Cybersecurity",
+    "hint": "Falsifying an identity or source so it appears to be someone else."
+  },
+  {
+    "id": "C108",
+    "answer": "masquerading",
+    "topic": "Cybersecurity",
+    "hint": "Acting under a false identity to conceal the real actor."
+  },
+  {
+    "id": "C109",
+    "answer": "tampering",
+    "topic": "Cybersecurity",
+    "hint": "Making unauthorized changes to data, equipment, or software."
+  },
+  {
+    "id": "C110",
+    "answer": "repudiation",
+    "topic": "Cybersecurity",
+    "hint": "Denying having performed an action or made a transaction."
+  },
+  {
+    "id": "C111",
+    "answer": "exfiltration",
+    "topic": "Cybersecurity",
+    "hint": "Moving information out of an environment without authorization."
+  },
+  {
+    "id": "C112",
+    "answer": "infiltration",
+    "topic": "Cybersecurity",
+    "hint": "Entering an environment covertly or without authorization."
+  },
+  {
+    "id": "C113",
+    "answer": "interception",
+    "topic": "Cybersecurity",
+    "hint": "Capturing information while it is being transmitted."
+  },
+  {
+    "id": "C114",
+    "answer": "eavesdropping",
+    "topic": "Cybersecurity",
+    "hint": "Listening to or observing communications without permission."
+  },
+  {
+    "id": "C115",
+    "answer": "sniffing",
+    "topic": "Cybersecurity",
+    "hint": "Capturing network traffic for inspection."
+  },
+  {
+    "id": "C116",
+    "answer": "snooping",
+    "topic": "Cybersecurity",
+    "hint": "Looking at information without an authorized reason."
+  },
+  {
+    "id": "C117",
+    "answer": "surveillance",
+    "topic": "Cybersecurity",
+    "hint": "Systematically observing activity or communications."
+  },
+  {
+    "id": "C118",
+    "answer": "reconnaissance",
+    "topic": "Cybersecurity",
+    "hint": "Gathering information about a target before taking further action."
+  },
+  {
+    "id": "C119",
+    "answer": "enumeration",
+    "topic": "Cybersecurity",
+    "hint": "Systematically listing accessible accounts, resources, or services."
+  },
+  {
+    "id": "C120",
+    "answer": "scanning",
+    "topic": "Cybersecurity",
+    "hint": "Checking targets for available services, weaknesses, or other characteristics."
+  },
+  {
+    "id": "C121",
+    "answer": "probing",
+    "topic": "Cybersecurity",
+    "hint": "Sending checks designed to learn how a target responds."
+  },
+  {
+    "id": "C122",
+    "answer": "exploitation",
+    "topic": "Cybersecurity",
+    "hint": "Taking advantage of a weakness to achieve an unintended result."
+  },
+  {
+    "id": "C123",
+    "answer": "exploit",
+    "topic": "Cybersecurity",
+    "hint": "A technique or code that takes advantage of a weakness."
+  },
+  {
+    "id": "C124",
+    "answer": "injection",
+    "topic": "Cybersecurity",
+    "hint": "Introducing untrusted instructions into something that treats them as commands."
+  },
+  {
+    "id": "C125",
+    "answer": "overrun",
+    "topic": "Cybersecurity",
+    "hint": "Writing or processing beyond an intended boundary or allocated capacity."
+  },
+  {
+    "id": "C126",
+    "answer": "overflow",
+    "topic": "Cybersecurity",
+    "hint": "A condition where data or a value exceeds its allotted bounds."
+  },
+  {
+    "id": "C127",
+    "answer": "underflow",
+    "topic": "Cybersecurity",
+    "hint": "A condition involving values or access below an intended lower bound."
+  },
+  {
+    "id": "C128",
+    "answer": "traversal",
+    "topic": "Cybersecurity",
+    "hint": "Moving through directory paths to reach files outside the intended area."
+  },
+  {
+    "id": "C129",
+    "answer": "forgery",
+    "topic": "Cybersecurity",
+    "hint": "Creating a false item that appears to come from a legitimate source."
+  },
+  {
+    "id": "C130",
+    "answer": "hijacking",
+    "topic": "Cybersecurity",
+    "hint": "Taking over an existing connection, session, or process."
+  },
+  {
+    "id": "C131",
+    "answer": "fixation",
+    "topic": "Cybersecurity",
+    "hint": "An attack that gets a victim to use a session identifier chosen beforehand."
+  },
+  {
+    "id": "C132",
+    "answer": "replay",
+    "topic": "Cybersecurity",
+    "hint": "Reusing a captured valid message to try to repeat an authorized action."
+  },
+  {
+    "id": "C133",
+    "answer": "relay",
+    "topic": "Cybersecurity",
+    "hint": "Forwarding authentication exchanges between parties to misuse their interaction."
+  },
+  {
+    "id": "C134",
+    "answer": "reflection",
+    "topic": "Cybersecurity",
+    "hint": "Making a system send traffic or a response toward another target."
+  },
+  {
+    "id": "C135",
+    "answer": "redirection",
+    "topic": "Cybersecurity",
+    "hint": "Sending a user or request to a different destination."
+  },
+  {
+    "id": "C136",
+    "answer": "poisoning",
+    "topic": "Cybersecurity",
+    "hint": "Corrupting trusted data or caches so later decisions use harmful information."
+  },
+  {
+    "id": "C137",
+    "answer": "pollution",
+    "topic": "Cybersecurity",
+    "hint": "Introducing conflicting inputs that change how software interprets information."
+  },
+  {
+    "id": "C138",
+    "answer": "smuggling",
+    "topic": "Cybersecurity",
+    "hint": "Exploiting differences in message parsing to hide an extra request or content."
+  },
+  {
+    "id": "C139",
+    "answer": "clobbering",
+    "topic": "Cybersecurity",
+    "hint": "Overwriting or shadowing an expected value to change program behavior."
+  },
+  {
+    "id": "C140",
+    "answer": "clickjacking",
+    "topic": "Cybersecurity",
+    "hint": "Tricking someone into clicking a hidden or disguised interface element."
+  },
+  {
+    "id": "C141",
+    "answer": "tabnabbing",
+    "topic": "Cybersecurity",
+    "hint": "Changing a background browser tab to imitate a trusted sign-in page."
+  },
+  {
+    "id": "C142",
+    "answer": "pharming",
+    "topic": "Cybersecurity",
+    "hint": "Redirecting people to a fraudulent site by corrupting address resolution or routing."
+  },
+  {
+    "id": "C143",
+    "answer": "pretexting",
+    "topic": "Cybersecurity",
+    "hint": "Inventing a plausible story to persuade someone to disclose information or act."
+  },
+  {
+    "id": "C144",
+    "answer": "baiting",
+    "topic": "Cybersecurity",
+    "hint": "Using an attractive lure to persuade someone to take an unsafe action."
+  },
+  {
+    "id": "C145",
+    "answer": "tailgating",
+    "topic": "Cybersecurity",
+    "hint": "Following an authorized person into a restricted area without proper access."
+  },
+  {
+    "id": "C146",
+    "answer": "piggybacking",
+    "topic": "Cybersecurity",
+    "hint": "Gaining access by taking advantage of another person's authorized entry or connection."
+  },
+  {
+    "id": "C147",
+    "answer": "vishing",
+    "topic": "Cybersecurity",
+    "hint": "A deceptive voice call used to obtain information or prompt unsafe action."
+  },
+  {
+    "id": "C148",
+    "answer": "smishing",
+    "topic": "Cybersecurity",
+    "hint": "A deceptive text message used to trick its recipient."
+  },
+  {
+    "id": "C149",
+    "answer": "quishing",
+    "topic": "Cybersecurity",
+    "hint": "A scam that uses a QR code to lead someone into an unsafe interaction."
+  },
+  {
+    "id": "C150",
+    "answer": "spearphishing",
+    "topic": "Cybersecurity",
+    "hint": "A deceptive message tailored to a particular person or organization."
+  },
+  {
+    "id": "C151",
+    "answer": "whaling",
+    "topic": "Cybersecurity",
+    "hint": "A targeted deceptive message aimed at a senior or high-value individual."
+  },
+  {
+    "id": "C152",
+    "answer": "scam",
+    "topic": "Cybersecurity",
+    "hint": "A deceptive scheme intended to obtain money, information, or another benefit."
+  },
+  {
+    "id": "C153",
+    "answer": "fraud",
+    "topic": "Cybersecurity",
+    "hint": "Deliberate deception used to obtain an improper benefit."
+  },
+  {
+    "id": "C154",
+    "answer": "deception",
+    "topic": "Cybersecurity",
+    "hint": "Causing someone to believe something false."
+  },
+  {
+    "id": "C155",
+    "answer": "hoax",
+    "topic": "Cybersecurity",
+    "hint": "A fabricated warning or story presented as genuine."
+  },
+  {
+    "id": "C156",
+    "answer": "lure",
+    "topic": "Cybersecurity",
+    "hint": "Something designed to attract a target's attention and action."
+  },
+  {
+    "id": "C157",
+    "answer": "decoy",
+    "topic": "Cybersecurity",
+    "hint": "An imitation resource used to draw attention away from a real one."
+  },
+  {
+    "id": "C158",
+    "answer": "honeypot",
+    "topic": "Cybersecurity",
+    "hint": "A monitored resource deliberately made attractive to intruders."
+  },
+  {
+    "id": "C159",
+    "answer": "honeynet",
+    "topic": "Cybersecurity",
+    "hint": "A collection of monitored decoy systems used to observe hostile activity."
+  },
+  {
+    "id": "C160",
+    "answer": "honeytoken",
+    "topic": "Cybersecurity",
+    "hint": "A planted fake credential or data item whose use can signal intrusion."
+  },
+  {
+    "id": "C161",
+    "answer": "canary",
+    "topic": "Cybersecurity",
+    "hint": "A planted indicator designed to trigger a warning when disturbed."
+  },
+  {
+    "id": "C162",
+    "answer": "trap",
+    "topic": "Cybersecurity",
+    "hint": "A deliberately arranged mechanism that detects or catches unwanted activity."
+  },
+  {
+    "id": "C163",
+    "answer": "trojan",
+    "topic": "Cybersecurity",
+    "hint": "Harmful software disguised as something legitimate or useful."
+  },
+  {
+    "id": "C164",
+    "answer": "worm",
+    "topic": "Cybersecurity",
+    "hint": "Malicious software capable of spreading between systems on its own."
+  },
+  {
+    "id": "C165",
+    "answer": "virus",
+    "topic": "Cybersecurity",
+    "hint": "Malicious code that spreads by attaching itself to other files or programs."
+  },
+  {
+    "id": "C166",
+    "answer": "spyware",
+    "topic": "Cybersecurity",
+    "hint": "Software that secretly collects information about a user's activity."
+  },
+  {
+    "id": "C167",
+    "answer": "adware",
+    "topic": "Cybersecurity",
+    "hint": "Software that displays advertising, sometimes with intrusive tracking or behavior."
+  },
+  {
+    "id": "C168",
+    "answer": "scareware",
+    "topic": "Cybersecurity",
+    "hint": "Software or messages that frighten people into buying or installing something."
+  },
+  {
+    "id": "C169",
+    "answer": "stalkerware",
+    "topic": "Cybersecurity",
+    "hint": "Software used to covertly monitor another person's device or activity."
+  },
+  {
+    "id": "C170",
+    "answer": "wiper",
+    "topic": "Cybersecurity",
+    "hint": "Malicious software intended to destroy data."
+  },
+  {
+    "id": "C171",
+    "answer": "rootkit",
+    "topic": "Cybersecurity",
+    "hint": "Tools designed to conceal privileged malicious access within a system."
+  },
+  {
+    "id": "C172",
+    "answer": "bootkit",
+    "topic": "Cybersecurity",
+    "hint": "Malicious code that interferes with a system's startup process."
+  },
+  {
+    "id": "C173",
+    "answer": "backdoor",
+    "topic": "Cybersecurity",
+    "hint": "A concealed way to bypass normal access controls."
+  },
+  {
+    "id": "C174",
+    "answer": "keylogger",
+    "topic": "Cybersecurity",
+    "hint": "A tool that records what someone types."
+  },
+  {
+    "id": "C175",
+    "answer": "bot",
+    "topic": "Cybersecurity",
+    "hint": "Software that performs automated tasks, sometimes under hostile control."
+  },
+  {
+    "id": "C176",
+    "answer": "botnet",
+    "topic": "Cybersecurity",
+    "hint": "A collection of compromised devices controlled together."
+  },
+  {
+    "id": "C177",
+    "answer": "zombie",
+    "topic": "Cybersecurity",
+    "hint": "A compromised device remotely controlled without its owner's knowledge."
+  },
+  {
+    "id": "C178",
+    "answer": "dropper",
+    "topic": "Cybersecurity",
+    "hint": "A program that places or installs other malicious software."
+  },
+  {
+    "id": "C179",
+    "answer": "downloader",
+    "topic": "Cybersecurity",
+    "hint": "A program whose role is to retrieve additional files, sometimes malicious ones."
+  },
+  {
+    "id": "C180",
+    "answer": "loader",
+    "topic": "Cybersecurity",
+    "hint": "A component that loads other code into execution."
+  },
+  {
+    "id": "C181",
+    "answer": "infostealer",
+    "topic": "Cybersecurity",
+    "hint": "Malicious software designed to collect and steal sensitive information."
+  },
+  {
+    "id": "C182",
+    "answer": "cryptojacking",
+    "topic": "Cybersecurity",
+    "hint": "Using someone else's computing resources without permission to mine cryptocurrency."
+  },
+  {
+    "id": "C183",
+    "answer": "clickfraud",
+    "topic": "Cybersecurity",
+    "hint": "Generating deceptive advertising interactions for improper financial gain."
+  },
+  {
+    "id": "C184",
+    "answer": "malvertising",
+    "topic": "Cybersecurity",
+    "hint": "Using online advertising to distribute harmful content or lead people into attacks."
+  },
+  {
+    "id": "C185",
+    "answer": "spam",
+    "topic": "Cybersecurity",
+    "hint": "Unsolicited bulk messages, often promotional or deceptive."
+  },
+  {
+    "id": "C186",
+    "answer": "mitigation",
+    "topic": "Cybersecurity",
+    "hint": "Reducing the likelihood or impact of a harmful event."
+  },
+  {
+    "id": "C187",
+    "answer": "spambot",
+    "topic": "Cybersecurity",
+    "hint": "Software that automatically sends unsolicited messages or posts."
+  },
+  {
+    "id": "C188",
+    "answer": "throttling",
+    "topic": "Cybersecurity",
+    "hint": "Limiting the rate of activity to reduce overload or abuse."
+  },
+  {
+    "id": "C189",
+    "answer": "pseudonymization",
+    "topic": "Cybersecurity",
+    "hint": "Replacing direct identifiers with substitutes while retaining a way to link them back."
+  },
+  {
+    "id": "C190",
+    "answer": "anonymization",
+    "topic": "Cybersecurity",
+    "hint": "Transforming information so individuals are no longer identifiable in its intended context."
+  },
+  {
+    "id": "C191",
+    "answer": "cracking",
+    "topic": "Cybersecurity",
+    "hint": "Attempting to defeat a password or other protective mechanism."
+  },
+  {
+    "id": "C192",
+    "answer": "redaction",
+    "topic": "Cybersecurity",
+    "hint": "Removing or obscuring sensitive portions before sharing a document."
+  },
+  {
+    "id": "C193",
+    "answer": "masking",
+    "topic": "Cybersecurity",
+    "hint": "Hiding original values behind substitutes or obscured displays."
+  },
+  {
+    "id": "C194",
+    "answer": "dictionary",
+    "topic": "Cybersecurity",
+    "hint": "A prepared list of likely words that can be used in password guessing."
+  },
+  {
+    "id": "C195",
+    "answer": "tokenization",
+    "topic": "Cybersecurity",
+    "hint": "Replacing sensitive values with substitute identifiers linked through a separate mechanism."
+  },
+  {
+    "id": "C196",
+    "answer": "collision",
+    "topic": "Cybersecurity",
+    "hint": "Different inputs producing the same result from a hash function."
+  },
+  {
+    "id": "C197",
+    "answer": "preimage",
+    "topic": "Cybersecurity",
+    "hint": "An input that produces a specified hash output."
+  },
+  {
+    "id": "C198",
+    "answer": "padding",
+    "topic": "Cybersecurity",
+    "hint": "Extra data added to meet formatting or cryptographic block requirements."
+  },
+  {
+    "id": "C199",
+    "answer": "oracle",
+    "topic": "Cybersecurity",
+    "hint": "A system whose responses unintentionally reveal useful information to an attacker."
+  },
+  {
+    "id": "C200",
+    "answer": "stripping",
+    "topic": "Cybersecurity",
+    "hint": "Removing a protective layer or feature from a communication exchange."
+  },
+  {
+    "id": "C201",
+    "answer": "pentester",
+    "topic": "Cybersecurity",
+    "hint": "A person authorized to test systems by attempting controlled attacks."
+  },
+  {
+    "id": "C202",
+    "answer": "cryptomining",
+    "topic": "Cybersecurity",
+    "hint": "Using computing resources to validate certain cryptocurrency transactions and earn rewards."
+  },
+  {
+    "id": "C203",
+    "answer": "doxing",
+    "topic": "Cybersecurity",
+    "hint": "Publishing someone's personal information without permission to expose or target them."
+  },
+  {
+    "id": "C204",
+    "answer": "eradication",
+    "topic": "Cybersecurity",
+    "hint": "Removing the cause and remaining footholds of a security incident."
+  },
+  {
+    "id": "C205",
+    "answer": "harassment",
+    "topic": "Cybersecurity",
+    "hint": "Repeated unwanted conduct that intimidates, threatens, or causes distress."
+  }
+]

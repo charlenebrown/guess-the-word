@@ -6,18 +6,48 @@ const remainingGuessesElement = document.querySelector(".remaining");
 const remainingGuessesSpan = document.querySelector(".remaining span");
 const message = document.querySelector(".message");
 const playAgainButton = document.querySelector(".play-again");
+const hintYesButton = document.querySelector(".hint-yes");
+const hintOffer = document.querySelector(".hint-offer");
+const hintNoButton = document.querySelector(".hint-no");
+const hintRequestButton = document.querySelector(".hint-request");
+const hintText = document.querySelector(".hint-text");
+
 
 let word = "magnolia";
 const guessedLetters = [];
-let remainingGuesses = 8;
+let remainingGuesses = 10;
+let wordBank = [];
+let remainingEntries = [];
+let currentHint = "";
+let previousWord = "";
 
 const getWord = async function () {
-  const response = await fetch("https://gist.githubusercontent.com/skillcrush-curriculum/7061f1d4d3d5bfe47efbfbcfe42bf57e/raw/5ffc447694486e7dea686f34a6c085ae371b43fe/words.txt");
-  const words = await response.text();
-  const wordArray = words.split("\n");
-  const randomIndex = Math.floor(Math.random() * wordArray.length);
-  word = wordArray[randomIndex].trim();
-  placeholder(word);
+    if (wordBank.length === 0) {
+  const response = await fetch("js/digital-flagship-word-bank.json");
+  if (!response.ok) {
+    throw new Error("The word bank could not be loaded.");
+  }
+
+    wordBank = await response.json();
+  }
+    if (remainingEntries.length === 0) {
+        remainingEntries = [...wordBank];
+    }
+
+
+    let randomIndex = Math.floor(Math.random() * remainingEntries.length);
+        if (
+            remainingEntries.length > 1 &&
+         remainingEntries[randomIndex].answer === previousWord
+        ) {
+        randomIndex = (randomIndex + 1) % remainingEntries.length;
+    }
+
+    const selectedEntry = remainingEntries.splice(randomIndex, 1)[0];
+    word = selectedEntry.answer;
+    currentHint = selectedEntry.hint;
+    previousWord = word;
+    placeholder(word);
 };
 
 getWord();
@@ -62,13 +92,20 @@ const validateInput = function (input) {
 const makeGuess = function (guess) {
     guess = guess.toUpperCase();
     if (guessedLetters.includes(guess)) {
-        message.innerText = "You already guessed that letter, silly, Try again.";
+        message.innerText = "For real, you already guessed that letter. Try again.";
     } else {
       guessedLetters.push(guess);
       console.log(guessedLetters);
       updateGuessRemaining(guess);
       showGuessedLetters();
       updateWordInProgress(guessedLetters);
+      if (
+        guessedLetters.length === 1 &&
+        remainingGuesses > 0 &&
+        wordInProgress.innerText !== word.toUpperCase()
+) {
+  hintOffer.classList.remove("hide");
+}
   }
 };
 const showGuessedLetters = function () {
@@ -98,21 +135,21 @@ const updateWordInProgress = function (guessedLetters) {
 
 const updateGuessRemaining = function (guess) {
     const upperWord = word.toUpperCase();
-    if (!upperWord.includes(guess)) {
-        message.innerText = `Sorry, the word has no ${guess}.`;
+     if (!upperWord.includes(guess)) {
+        message.innerText = `Dang, the word has no ${guess}.`;
         remainingGuesses -= 1;
-    } else {
+        } else {
         message.innerText = `Good guess! The word has the letter ${guess}.`;
-    }
+        }
     
-    if (remainingGuesses === 0) {
-        message.innerHTML = `Game over! The word was <span class="highlight">${word}</span>.`;
-        startOver();
-    } else if (remainingGuesses === 1) {
-      remainingGuessesSpan.innerText = `${remainingGuesses} guess`;
-    } else {
-      remainingGuessesSpan.innerText = `${remainingGuesses} guesses`;
-  }
+     if (remainingGuesses === 0) {
+            message.innerHTML = `Game over! The word was <span class="highlight">${word}</span>.`;
+            startOver();
+        } else if (remainingGuesses === 1) {
+            remainingGuessesSpan.innerText = `${remainingGuesses} guess`;
+        } else {
+            remainingGuessesSpan.innerText = `${remainingGuesses} guesses`;
+    }
 };
 
 
@@ -120,7 +157,7 @@ const updateGuessRemaining = function (guess) {
 const checkIfWin = function () {
     if (word.toUpperCase() === wordInProgress.innerText) {
         message.classList.add("win");
-        message.innerHTML = `<p class="highlight">You guessed the correct word! Congrats!</p>`;
+        message.innerHTML = `<p class="highlight">That's what's up! You guessed the correct word! Congrats!</p>`;
 
         startOver();
     }
@@ -131,20 +168,59 @@ const startOver = function () {
     remainingGuessesElement.classList.add("hide");
     guessedLettersElement.classList.add("hide");
     playAgainButton.classList.remove("hide");
+    hintOffer.classList.add("hide");
+    hintRequestButton.classList.add("hide");
+    hintText.classList.add("hide");
 };
 
 playAgainButton.addEventListener("click", function () {
   message.classList.remove("win");
-  guessedLetters = [];
-  remainingGuesses = 8;
+  guessedLetters.length = 0;
+  remainingGuesses = 10;
   remainingGuessesSpan.innerText = `${remainingGuesses} guesses`;
   guessedLettersElement.innerHTML = "";
   message.innerText = "";
+  hintOffer.classList.add("hide");
+  hintRequestButton.classList.add("hide");
+  hintRequestButton.innerText = "Get a hint";
+  hintText.classList.add("hide");
+  hintText.innerText = "";
+  currentHint = "";
+  letterInput.value = "";
 
    getWord();
 
-     guessLetterButton.classList.remove("hide");
-  playAgainButton.classList.add("hide");
-  remainingGuessesElement.classList.remove("hide");
-  guessedLettersElement.classList.remove("hide");
+
+
+    guessLetterButton.classList.remove("hide");
+    playAgainButton.classList.add("hide");
+    remainingGuessesElement.classList.remove("hide");
+    guessedLettersElement.classList.remove("hide");
 });
+
+hintNoButton.addEventListener("click", function () {
+  // Hide the hint offer.
+  // Reveal the Get a hint button.
+    hintOffer.classList.add("hide");
+    hintRequestButton.classList.remove("hide");
+});
+
+
+const revealHint = function () {
+  hintText.innerText = currentHint;
+  hintText.classList.remove("hide");
+  hintOffer.classList.add("hide");
+  hintRequestButton.classList.remove("hide");
+  hintRequestButton.innerText = "Hide hint";
+};
+
+hintYesButton.addEventListener("click", revealHint);
+hintRequestButton.addEventListener("click", function () {
+  if (hintText.classList.contains("hide")) {
+    revealHint();
+  } else {
+    hintText.classList.add("hide");
+    hintRequestButton.innerText = "Show hint again";
+  }
+});
+
