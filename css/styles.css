@@ -197,7 +197,7 @@ input:focus {
   color: #30ced9;
   text-shadow:
   0 0 0.25rem #30ced9,
-  0 0 0.875rem rgba(40, 224, 237, 0.9);
+  0 0 0.875rem rgba(76, 243, 255, 0.9);
   font-family: monospace;
   font-size: 0.625rem;
   line-height: max(0.9375rem, 3.125vh);
@@ -211,62 +211,77 @@ input:focus {
 }
 
 .binary-column:nth-child(2) {
+  animation-duration: 10s;
   animation-delay: -4s;
 }
 
 .binary-column:nth-child(3) {
+  animation-duration: 38s;
   animation-delay: -12s;
 }
 
 .binary-column:nth-child(4) {
+  animation-duration: 16s;
   animation-delay: -8s;
 }
 
 .binary-column:nth-child(5) {
+  animation-duration: 42s;
   animation-delay: -20s;
 }
 
 .binary-column:nth-child(6) {
+  animation-duration: 22s;
   animation-delay: -16s;
 }
 
 .binary-column:nth-child(7) {
+  animation-duration: 12s;
   animation-delay: -2s;
 }
 
 .binary-column:nth-child(8) {
+  animation-duration: 34s;
   animation-delay: -14s;
 }
 
 .binary-column:nth-child(9) {
+  animation-duration: 18s;
   animation-delay: -6s;
 }
 
 .binary-column:nth-child(10) {
+  animation-duration: 40s;
   animation-delay: -22s;
 }
 
 .binary-column:nth-child(11) {
+  animation-duration: 11s;
   animation-delay: -10s;
 }
 
 .binary-column:nth-child(12) {
+  animation-duration: 30s;
   animation-delay: -18s;
 }
 
 .binary-column:nth-child(13) {
+  animation-duration: 15s;
   animation-delay: -1s;
 }
 
 .binary-column:nth-child(14) {
+  animation-duration: 36s;
   animation-delay: -7s;
 }
 
 .binary-column:nth-child(15) {
+  animation-duration: 26s;
   animation-delay: -13s;
 }
 
 .binary-column:nth-child(16) {
+  animation-duration: 13s;
   animation-delay: -19s;
 }
 
